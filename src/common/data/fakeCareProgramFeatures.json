@@ -1,0 +1,22 @@
+[
+   {
+      "name":"remotePatientMonitoring",
+      "description":"rpmDescription",
+      "status":true
+   },
+   {
+      "name":"chronicCareManagement",
+      "description":"ccmDescription",
+      "status":true
+   },
+   {
+      "name":"behavioralHealthIntegration",
+      "description":"bhiDescription",
+      "status":false
+   },
+   {
+      "name":"principalCareManagement",
+      "description":"pcmDescription",
+      "status":true
+   }
+]

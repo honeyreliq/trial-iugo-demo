@@ -1,0 +1,245 @@
+[
+    {
+    "uid": "2e90d169-f6a9-42b3-b5cb-4d34414ff1f8",
+    "status": "active",
+    "accessRoles": [
+        "User"
+    ],
+    "programs":[
+        "RPM",
+        "CCM",
+        "BHI",
+        "PCM"
+    ],
+    "name": "Parvati Khan",
+    "email": "parvati.khan@example.com",
+    "organizations": [
+        "GoodHealth Clinic"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020",
+    "expandedInfo": "Expanded Info"
+    },
+    {
+    "uid": "f3b66e98-d7b4-4315-9ebe-081210d5c3a7",
+    "status": "active",
+    "accessRoles": [
+        "User",
+        "OrgAdmin"
+    ],
+    "programs":[
+        "RPM"
+    ],
+    "name": "Ghita Orozco Montenegro",
+    "email": "ghita.orozco@example.com",
+    "organizations": [
+        "GoodHealth Clinic",
+        "Harmony Home Health Agency"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020",
+    "expandedInfo": "Expanded Info"
+    },
+    {
+    "uid": "g7f0208c-cd7e-4797-ab97-1c9592f8fef2",
+    "status": "active",
+    "accessRoles": [
+        "User",
+        "OrgAdmin"
+    ],
+    "programs":[
+        "RPM",
+        "CCM",
+        "BHI"
+    ],
+    "name": "Maria Koziol",
+    "email": "maria.kozoi@example.com",
+    "organizations": [
+        "Marvelous Medical Services"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020",
+    "expandedInfo": "Expanded Info"
+    },
+    {
+    "uid": "4e16f04f-d9af-42dc-a050-6b32be134a5c",
+    "status": "inactive",
+    "accessRoles": [
+        "User",
+        "Care Manager"
+    ],
+    "programs":[
+        "RPM",
+        "PCM"
+    ],
+    "name": "Roxanne Olszewska",
+    "email": "roxanne.olszewska@example.com",
+    "organizations": [
+        "GoodHealth Clinic",
+        "ProHealth Cardiology Clinic",
+        "Marvelous Medical Services"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020"
+    },
+    {
+    "uid": "fg917bc9-f491-40ea-9e6c-ea37afc2b1ff",
+    "status": "active",
+    "accessRoles": [
+        "User",
+        "OrgAdmin",
+        "Care Manager"
+     ],
+     "programs":[
+        "RPM",
+        "CCM"
+    ],
+    "name": "Fadiyah Badriyah-Harb",
+    "email": "fadiyah.badriyahharb@example.com",
+    "organizations": [
+        "GoodHealth Clinic"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020",
+    "expandedInfo": "Expanded Info"
+    },
+    {
+    "uid": "7100638b-6ee9-4b93-abb8-e51724a86421",
+    "status": "active",
+    "accessRoles": [
+        "Intake"
+    ],
+    "programs":[
+        "RPM",
+        "CCM",
+        "BHI"
+    ],
+    "name": "Yejoon Kwan",
+    "email": "yejoon.kwan@example.com",
+    "organizations": [
+        "GoodHealth Clinic"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020",
+    "expandedInfo": "Expanded Info"
+    },
+    {
+    "uid": "dc72ecd1-3c3a-4d8f-94a4-c8487579530c",
+    "status": "inactive",
+    "accessRoles": [
+        "Intake"
+    ],
+    "programs":[
+        "BHI",
+        "PCM"
+    ],
+    "name": "Minh Thi Hong",
+    "email": "minh.hong@example.com",
+    "organizations": [
+        "GoodHealth Clinic",
+        "ProHealth Cardiology Clinic",
+        "Marvelous Medical Services"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020"
+    },
+    {
+    "uid": "2f3e9d93-8114-4a60-8b15-120461924064",
+    "status": "inactive",
+    "accessRoles": [
+        "User"
+    ],
+    "programs":[
+        "RPM",
+        "CCM",
+        "BHI",
+        "PCM"
+    ],
+    "name": "Catalina García Rodríguez",
+    "email": "catalina.garciarodriguez@example.com",
+    "organizations": [
+        "GoodHealth Clinic"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020"
+    },
+    {
+    "uid": "6b98d0e0-5b61-4df7-b3fd-0c7f23eece7a",
+    "status": "active",
+    "accessRoles": [
+        "Assistant"
+    ],
+    "programs":[
+        "RPM",
+        "BHI"
+    ],
+    "name": "James Tai Tran",
+    "email": "james.tran@example.com",
+    "organizations": [
+        "GoodHealth Clinic"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020",
+    "expandedInfo": "Expanded Info"
+    },
+    {
+    "uid": "b5be4f56-55df-4b66-b2b4-6b98924d9081",
+    "status": "active",
+    "accessRoles": [
+        "User",
+        "OrgAdmin"
+    ],
+    "programs":[
+        "BHI",
+        "PCM"
+    ],
+    "name": "Josiah Brett Corporal",
+    "email": "josiah.corporal@example.com",
+    "organizations": [
+        "ProHealth Cardiology Clinic",
+        "Marvelous Medical Services"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020"
+    },
+    {
+    "uid": "j86e4f56-55df-4b66-b2b4-ty68924d1690",
+    "status": "active",
+    "accessRoles": [
+        "RestrictedUser",
+        "Assistant"
+    ],
+    "programs":[
+        "RPM",
+        "PCM"
+    ],
+    "name": "María Alejandra Ortega Velázquez",
+    "email": "mariaalejandra.ortegavelasquez@example.com",
+    "organizations": [
+        "Harmony Home Health Agency"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020",
+    "expandedInfo": "Expanded Info"
+    },
+    {
+    "uid": "yy7p4f56-55df-4b66-b2b4-6b98924d6344",
+    "status": "active",
+    "accessRoles": [
+        "User",
+        "OrgAdmin",
+        "SysAdmin"
+    ],
+    "programs":[
+        "RPM"
+    ],
+    "name": "Romeo Astillo",
+    "email": "romeo.astillo@example.com",
+    "organizations": [
+        "Reliq Health Technologies",
+        "Marvelous Medical Services"
+    ],
+    "created": "06/21/2018",
+    "lastAccess": "09/04/2020"
+    }
+]

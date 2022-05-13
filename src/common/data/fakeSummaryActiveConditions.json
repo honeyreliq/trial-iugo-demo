@@ -1,0 +1,25 @@
+[
+   {
+      "id": 1,
+      "activeConditions": "hypertension",
+      "diagnosisCode": "hypertensionCode",
+      "enrolledPrograms": [
+         "RPM",
+         "CCM"
+      ]
+   },
+   {
+      "id": 2,
+      "activeConditions": "dementia",
+      "diagnosisCode": "dementiaCode",
+      "enrolledPrograms": []
+   },
+   {
+      "id": 3,
+      "activeConditions": "diabetesType2",
+      "diagnosisCode": "diabetesCode",
+      "enrolledPrograms": [
+         "CCM"
+      ]
+   }
+]

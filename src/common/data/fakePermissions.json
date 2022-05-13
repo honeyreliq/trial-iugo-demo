@@ -1,0 +1,467 @@
+[
+    {
+    "uid": "313c6626-e7d2-446e-b1a4-a2b09e993bd4",
+    "name": "Access iUGO Care",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": true,
+        "Intake": true
+    },
+    "description": "Allows the user to access the iUGO Care platform",
+    "group": "Account Settings"
+    },
+    {
+    "uid": "568c6626-e7d2-446e-b1a4-a2b34593bd5",
+    "name": "Add/modify/remove system administration configurations",
+    "roles": {
+        "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": false,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows the user to edit system administration configurations.",
+    "group": "Administration"
+    },
+    {
+    "uid": "19fc6626-e7d2-446e-b1a4-a2b34593bd6",
+    "name": "Add/modify/remove organization settings",
+    "roles": {
+        "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to edit configurations for an organization",
+    "group": "Administration"
+    },
+    {
+    "uid": "ff6c6626-e7d2-446e-b1a4-a2b09e993bd7",
+    "name": "Add/modify/remove sub-organizations",
+    "roles": {
+         "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to add or remove secondary organizations from or to a primary organization",
+    "group": "Administration"
+    },
+    {
+    "uid": "0o9c6626-e7d2-446f-b1a4-a2b34593bd8",
+    "name": "Add/modify/remove organization user roles",
+    "roles": {
+        "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to create new custom user roles, or edit existing custom user roles as part of permissions",
+    "group": "Administration"
+    },
+    {
+    "uid": "5f3c6626-e7d2-446e-b1a4-a2b34593bd9",
+    "name": "Add/modify/remove organization documents",
+    "roles": {
+         "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to create and update organization documents",
+    "group": "Administration"
+    },
+    {
+    "uid": "05xc6626-e7d2-446e-b1a4-a2b09e993bd4",
+    "name": "Add/modify/remove users",
+    "roles": {
+         "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to create and update users of the platform",
+    "group": "Administration"
+    },
+    {
+    "uid": "11kc6626-e7d2-446e-b1a4-a2b34593bd5",
+    "name": "Modify user profile",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": true,
+        "Intake": true
+    },
+    "description": "Allows users to modify their own user profile in the platform",
+    "group": "Account Settings"
+    },
+    {
+    "uid": "554c6626-e7d2-446e-b1a4-a2b34593bd6",
+    "name": "Modify user preferences",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": true,
+        "Intake": true
+    },
+    "description": "Allows users to modify their own user preferences in the platform",
+    "group": "Account Settings"
+    },
+    {
+    "uid": "339c6626-e7d2-4j6e-b1a4-a2b09e993bd7",
+    "name": "View organizations, users, and providers",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows users to access the organizations page, the users page, and the providers page.",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "8vfc6626-e7d2-446e-b1y4-a2b34593bd8",
+    "name": "Access patient lists, boards, and dashboards",
+    "roles": {
+         "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows users to access the patients page and the dashboards from the navigation menu",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "i87c6626-e7d2-446e-b1a4-a2bsd593bd9",
+    "name": "Add/modify/remove custom lists",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the users to use Custom List funcionality from pages with tables",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "10xc6626-e7d2-446e-b1a4-a2b09e993bd7",
+    "name": "Add/modify/remove patients",
+    "roles": {
+        "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": true
+    },
+    "description": "Allows the user to create and edit patient accounts",
+    "group": "Care Management"
+    },
+    {
+    "uid": "998c6626-e7d2-446e-b1a4-a2b34593bd8",
+    "name": "View patients",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": true
+    },
+    "description": "Allows the user to view patient details throughout the platform",
+    "group": "Care Management"
+    },
+    {
+    "uid": "26yc662t-e7d2-446e-b1a4-a2b34593bd9",
+    "name": "View patient chart",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": true
+    },
+    "description": "Allows the user to access a patient's Patient Chart",
+    "group": "Care Management"
+    },
+    {
+    "uid": "728c6626-e7d2-446e-b1a4-a2b34593gd8",
+    "name": "Contribute to a patient chart",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows the user to make changes to a patient's patient chart (e,g., notes, care planning, or patient information).",
+    "group": "Care Management"
+    },
+    {
+    "uid": "crtc6626-e7d2-446e-b1a4-a2b09e993bd7",
+    "name": "Add/removed to patient Care Team",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": true
+    },
+    "description": "Allows the user to join a patient's Care Team",
+    "group": "Care Management"
+    },
+    {
+    "uid": "0mnc6626-e7d2-446e-b1a4-a2by4593bd8",
+    "name": "Add/modify/remove Care Plan",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows a user to update or create a Care Plan for a patient",
+    "group": "Care Management"
+    },
+    {
+    "uid": "1w7c6626-5rdg-446e-b1a4-a2b34593bd9",
+    "name": "Add/modify patient medication",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows a user to modify a patient's medications",
+    "group": "Care Management"
+    },
+    {
+    "uid": "0p0c6626-e7d2-446e-b1a4-a2b09e993bt7",
+    "name": "Add/modify/remove Devices associated with patient",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": true
+    },
+    "description": "Allows a user to manage a patient's devices",
+    "group": "Care Management"
+    },
+    {
+    "uid": "098c6626-e7d2-446a-b1a4-a2b34593bd8",
+    "name": "View patient reports",
+    "roles": {
+        "RestrictedUser": true,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows the user to access a patient's reports",
+    "group": "Care Management"
+    },
+    {
+    "uid": "665c6626-e7d2-446b-b1a4-a2b34593bd9",
+    "name": "View organization reports",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to access organization reports",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "907c6626-e7d2-446e-b1a4-a2b34593bd8",
+    "name": "Generate ad-hoc reports",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows the user to create ad-hoc reports as needed",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "jj7c66d6-e7d2-446e-b1a4-a2b09e993bd7",
+    "name": "Receive notifications",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "–",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "ab6c6626-e7d2-446e-b1a4-a2b34593bd8",
+    "name": "Grant/revoke access to MiUGO",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": true
+    },
+    "description": "Allows the user to receive notifications (e.g., based on programmed patient alerts)",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "m90c6626-e7d2-446e-rryg-a2b34593bd9",
+    "name": "Care time tracking by Care Program",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows the user to use the timer functionality and associate it to patient care",
+    "group": "Care Management"
+    },
+    {
+    "uid": "9klc6626-e7d2-446e-b1d4-a2b09e993bd7",
+    "name": "Grant Access to Audit Log",
+    "roles": {
+        "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": false,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows a user to grant access to the Audit log",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "0o9c6626-e7d2-446c-b1a4-a2b34593bd8",
+    "name": "View Audit Log (after access granted)",
+    "roles": {
+        "RestrictedUser": false,
+        "User": false,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": false,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "Allows a user to access the Audit Log, if permission has been granted",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "907c6626-e7d2-556e-b1a4-a2b34593bd9",
+    "name": "Add/modify Monitoring Parameters for an individual patient",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": false,
+        "Intake": false
+    },
+    "description": "ALlows the user to edit a patient's Monitoring Parameters",
+    "group": "Care Management"
+    },
+    {
+    "uid": "407c6626-e7d2-446e-bga4-a2b09e993bd7",
+    "name": "View Organization Documents uploaded by Reliq",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to view documents uploaded by Reliq to the Organization Documents page",
+    "group": "Platform Functionality"
+    },
+    {
+    "uid": "507c45t6-e7y2-446e-b1a4-a2b34593bd8",
+    "name": "View Organization Documents uploaded by the organization",
+    "roles": {
+        "RestrictedUser": false,
+        "User": true,
+        "OrgAdmin": true,
+        "SysAdmin": true,
+        "CareManager": true,
+        "Assistant": true,
+        "Intake": false
+    },
+    "description": "Allows the user to view documents uploaded by the organization to the Organization Documents page",
+    "group": "Platform Functionality"
+    }
+]

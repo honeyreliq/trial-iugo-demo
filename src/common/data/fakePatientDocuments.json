@@ -1,0 +1,19 @@
+[
+        {
+        "id": "1",
+        "name": "2021-10-GoodHealth Clinic-adherence-report-monthly",
+        "category": "monthlyReport",
+        "isoDateUploaded": "2021-10-01T14:14:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-Organization-adherence-report-monthly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "2",
+        "name": "2021-10-Abundant Health Services-adherence-report-weekly",
+        "category": "weeklyReport",
+        "isoDateUploaded": "2021-10-01T12:10:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-02-14-Organization-adherence-report-weekly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf"
+    }
+]
+

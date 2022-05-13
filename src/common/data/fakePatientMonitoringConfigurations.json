@@ -1,0 +1,302 @@
+[
+    {
+        "patientId": "1",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "2",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "3",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "4",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "5",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "6",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "7",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "8",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "9",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "10",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "11",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "12",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "13",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "14",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    },
+    {
+        "patientId": "15",
+        "configurations": [
+            {
+                "id": "1",
+                "observationType": "blood-pressure",
+                "enable": true
+            },
+            {
+                "id": "2",
+                "observationType": "blood-glucose",
+                "enable": true
+            },
+            {
+                "id": "3",
+                "observationType": "body-temperature",
+                "enable": true
+            }
+        ]
+    }
+]

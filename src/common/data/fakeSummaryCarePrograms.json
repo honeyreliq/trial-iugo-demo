@@ -1,0 +1,47 @@
+[
+    {
+       "key":"rpm",
+       "program":"remotePatientMonitoring",
+       "type":"careProgram",
+       "provider":"Dr. Roxanne Olszewska",
+       "timeSpent":"800",
+       "targetTime":"1200",
+       "status":"inProgress"
+    },
+    {
+       "key":"ccm",
+       "program":"chronicCareManagement",
+       "type":"careProgram",
+       "provider":"Dr. Paul Lin",
+       "timeSpent":"400",
+       "targetTime":"1200",
+       "status":"inProgress"
+    },
+    {
+       "key":"pcm",
+       "program":"principalCareManagement",
+       "type":"careProgram",
+       "provider":"Dr. Paul Lin",
+       "timeSpent":"0",
+       "targetTime":"1800",
+       "status":"onboarded"
+    },
+    {
+       "key":"tcm",
+       "program":"transitionalCareManagement",
+       "type":"careProgram",
+       "provider":"Dr. Roxanne Olszewska",
+       "timeSpent":"10",
+       "targetDays":"30",
+       "status":"inactive"
+    },
+    {
+       "key":"bhi",
+       "program":"behavioralHealthIntegration",
+       "type":"careProgram",
+       "provider":"Dr. Paul Lin",
+       "timeSpent":"600",
+       "targetTime":"1200",
+       "status":"inactive"
+    }
+ ]

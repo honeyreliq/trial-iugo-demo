@@ -1,0 +1,120 @@
+[
+    {
+    "key": "Lisinopril",
+    "medication": "Lisinopril",
+    "dose": "5mg",
+    "route": "PO",
+    "frequency": "qd",
+    "startDate": "06/21/2018",
+    "endDate": "-",
+    "status": "active"
+    },
+    {
+    "key": "Enalapril",
+    "medication": "Enalapril",
+    "dose": "5mg",
+    "route": "PO",
+    "frequency": "bid",
+    "startDate": "05/08/2020",
+    "endDate": "-",
+    "status": "active"
+    },
+    {
+    "key": "Citalopram",
+    "medication": "Citalopram",
+    "dose": "40mg",
+    "route": "PO",
+    "frequency": "qd",
+    "startDate": "02/21/2020",
+    "endDate": "-",
+    "status": "active",
+    "expandedInfo": "Take at bedtime."
+    },
+    {
+    "key": "Metformin",
+    "medication": "Metformin",
+    "dose": "800mg",
+    "route": "PO",
+    "frequency": "tid",
+    "startDate": "02/21/2020",
+    "endDate": "-",
+    "status": "active",
+    "expandedInfo": "take 30 minutes before a meal."
+    },
+    {
+    "key": "Hydrochlorothiazide",
+    "medication": "Hydrochlorothiazide",
+    "dose": "12.5mg",
+    "route": "PO",
+    "frequency": "bid",
+    "startDate": "12/22/2020",
+    "endDate": "-",
+    "status": "active",
+    "expandedInfo": "Take twice a day with or without food at the same time every day."
+    },
+    {
+    "key": "Acetaminophen",
+    "medication": "Acetaminophen",
+    "dose": "325mg",
+    "route": "PO",
+    "frequency": "Q4H - Q6H PRN",
+    "startDate": "06/14/2019",
+    "endDate": "-",
+    "status": "active",
+    "expandedInfo": "Take one every 4 to 6 hours, as needed. Do not take more than 4000mg within 24 hours."
+    },
+    {
+    "key": "Trazodone",
+    "medication": "Trazodone",
+    "dose": "50mg",
+    "route": "PO",
+    "frequency": "qd",
+    "startDate": "06/21/2018",
+    "endDate": "-",
+    "status": "active",
+    "expandedInfo": "Don't drive or attempt activities requiring alertness for 5 hours after taking this medication. Do not combine alcohol with this medication. "
+    },
+    {
+    "key": "Gabapentin",
+    "medication": "Gabapentin",
+    "dose": "300mg",
+    "route": "PO",
+    "frequency": "bid",
+    "startDate": "05/08/2020",
+    "endDate": "-",
+    "status": "active"
+    },
+    {
+    "key": "Amoxicillin",
+    "medication": "Amoxicillin",
+    "dose": "500mg",
+    "route": "PO",
+    "frequency": "bid",
+    "startDate": "07/06/2020",
+    "endDate": "07/20/2020",
+    "status": "inactive",
+    "expandedInfo": "Ensure you complete the entire dosing regimen for the specified time period. Taken due to cellulitis infection."
+    },
+    {
+    "key": "Diphenhydramine Hydrochloride",
+    "medication": "Diphenhydramine Hydrochloride",
+    "dose": "50mg",
+    "route": "PO",
+    "frequency": "qd",
+    "startDate": "02/21/2020",
+    "endDate": "-",
+    "status": "onHold",
+    "expandedInfo": "Don't drive or attempt activities requiring alertness for 5 hours after taking this medication. Do not combine alcohol with this medication."
+    },
+    {
+    "key": "Regular Insulin (Novolin R)",
+    "medication": "Regular Insulin (Novolin R)",
+    "dose": "Sliding Dose",
+    "route": "Subcutaneous Injection",
+    "frequency": "qid",
+    "startDate": "02/21/2020",
+    "endDate": "-",
+    "status": "active",
+    "expandedInfo": "BG 150-199: 1 unit Bolus Insulin; BG 200-249: 2 units Bolus Insulin; BG 250-299: 3 units Bolus Insulin; BG 300-349: 4 units Bolus Insulin; BG Over 350: 5 units Bolus Insulin"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "uid": "1",
+        "name": "Parvati Khan",
+        "organization": "GoodHealth Clinic",
+        "email": "parvati.khan@example.com",
+        "programs":[
+            "RPM",
+            "CCM",
+            "BHI",
+            "PCM"
+        ],
+        "accessRoles": "systemAdministrator",
+        "status": "active"
+    },
+    {
+        "uid": "2",
+        "name": "Ghita Orozco Montenegro",
+        "organization": "Harmony Home Health Agency",
+        "email": "ghita.orozco@example.com",
+        "programs":[
+            "RPM",
+            "CCM",
+            "BHI",
+            "PCM"
+        ],
+        "accessRoles": "user",
+        "status": "active"
+    },
+    {
+        "uid": "3",
+        "name": "Maria Koziol",
+        "organization": "Marvelous Medical Services",
+        "email": "maria.kozoi@example.com",
+        "programs":[
+            "RPM",
+            "CCM",
+            "BHI"
+        ],
+        "accessRoles": "organizationAdministrator",
+        "status": "inactive"
+    },
+    {
+        "uid": "4",
+        "name": "Roxanne Olszewska",
+        "organization": "ProHealth Cardiology Clinic",
+        "email": "roxanne.olszewska@example.com",
+        "programs":[
+            "RPM",
+            "CCM",
+            "PCM",
+            "BHI"
+        ],
+        "accessRoles": "organizationAdministrator",
+        "status": "active"
+    },
+    {
+        "uid": "5",
+        "name": "Fadiyah Badriyah-Harb",
+        "organization": "GoodHealth Clinic",
+        "email": "fadiyah.badriyahharb@example.com",
+        "programs":[
+            "BHI",
+            "RPM",
+            "CCM"
+        ],
+        "accessRoles": "user",
+        "status": "inactive"
+    }
+]

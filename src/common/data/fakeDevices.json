@@ -1,0 +1,66 @@
+[
+    {
+        "uid": "1",
+        "name": "Acme Pseudo Devices",
+        "serial": "718380040893261U",
+        "type": "acmePseudoDevice",
+        "dateAdded": "03/31/2021",
+        "status": "inactive"
+    },
+    {
+        "uid": "2",
+        "name": "Fitbit Devices",
+        "serial": "9879786669",
+        "type": "fitnessDevice",
+        "dateAdded": "03/22/2021",
+        "status": "active"
+    },
+    {
+        "uid": "3",
+        "name": "Foracare D40G",
+        "serial": "326171838004089U",
+        "type": "glucometerAndBloodPressureMonitor",
+        "dateAdded": "03/17/2021",
+        "status": "active"
+    },
+    {
+        "uid": "4",
+        "name": "Garmin Devices",
+        "serial": "363456436",
+        "type": "fitnessAndHeartRateTracker",
+        "dateAdded": "03/01/2021",
+        "status": "inactive"
+    },
+    {
+        "uid": "5",
+        "name": "iGlucose Blood Pressure Cuff",
+        "serial": "983847348764",
+        "type": "bloodPressureDevice",
+        "dateAdded": "02/29/2021",
+        "status": "active"
+    },
+    {
+        "uid": "6",
+        "name": "iGlucose Scale",
+        "serial": "11224567865",
+        "type": "weightScale",
+        "dateAdded": "02/25/2021",
+        "status": "active"
+    },
+    {
+        "uid": "7",
+        "name": "iGlucose Smart Meter",
+        "serial": "09566777",
+        "type": "bloodGlucoseMeter",
+        "dateAdded": "02/16/2021",
+        "status": "active"
+    },
+    {
+        "uid": "8",
+        "name": "iHealth Devices",
+        "serial": "0066544444",
+        "type": "pulseOximeter",
+        "dateAdded": "02/11/2021",
+        "status": "active"
+    }
+]

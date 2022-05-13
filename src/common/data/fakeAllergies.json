@@ -1,0 +1,27 @@
+[
+    {
+        "allergy": "NSAID Drugs",
+        "type": "Allergy",
+        "category": "Medication",
+        "severity": "Intermediate",
+        "onset": "1992",
+        "status": "Active"
+    },
+    {
+        "allergy": "Beta Lactams",
+        "type": "Allergy",
+        "category": "Medication",
+        "severity": "Severe",
+        "onset": "1967",
+        "status": "Active"
+    },
+    {
+        "allergy": "Raw Fruit",
+        "type": "Adverse Reaction",
+        "category": "Food",
+        "severity": "Mild",
+        "onset": "2001",
+        "status": "Inactive"
+    }
+
+]

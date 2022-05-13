@@ -1,0 +1,174 @@
+{
+   "patients": [
+      {
+         "label": "allPatients",
+         "badge": "15",
+         "type": 0
+      },
+      {
+         "label": "Daily List",
+         "type": 1
+      },
+      {
+         "label": "RPM Patients",
+         "type": 1
+      },
+      {
+         "label": "CCM Patients",
+         "type": 1
+      },
+      {
+         "label": "BHI Patients",
+         "type": 1
+      },
+      {
+         "label": "Follow-Ups",
+         "type": 1
+      },
+      {
+         "label": "New/Onboarded",
+         "type": 1
+      },
+      {
+         "label": "Good Health Clinic",
+         "type": 1
+      },
+      {
+         "label": "Diabetes List",
+         "type": 1
+      },
+      {
+         "label": "HTN List",
+         "type": 1
+      },
+      {
+         "label": "Paz 2",
+         "type": 1
+      },
+      {
+         "label": "Team A",
+         "type": 1
+      },
+      {
+         "label": "Team B",
+         "type": 1
+      }
+   ],
+   "users": [
+      {
+         "label": "Daily List",
+         "type": 1
+      },
+      {
+         "label": "Team A",
+         "type": 1
+      },
+      {
+         "label": "Team B",
+         "type": 1
+      },
+      {
+         "label": "Good Health Clinic",
+         "type": 1
+      },
+      {
+         "label": "Follow-Ups",
+         "type": 1
+      },
+      {
+         "label": "New/Onboarded",
+         "type": 1
+      },
+      {
+         "label": "RPM Team",
+         "type": 1
+      },
+      {
+         "label": "PCM Team",
+         "type": 1
+      },
+      {
+         "label": "TCM Team",
+         "type": 1
+      },
+      {
+         "label": "Dr Chu Team",
+         "type": 1
+      }
+   ],
+   "organizations": [
+      {
+         "label": "allOrganizations",
+         "badge": "5",
+         "type": 0
+      },
+      {
+         "label": "RPM",
+         "type": 1
+      },
+      {
+         "label": "PCM",
+         "type": 1
+      },
+      {
+         "label": "CCM",
+         "type": 1
+      },
+      {
+         "label": "BHI",
+         "type": 1
+      }
+   ],
+   "providers": [
+      {
+         "label": "allProviders",
+         "badge": "5",
+         "type": 0
+      },
+      {
+         "label": "RPM",
+         "type": 1
+      },
+      {
+         "label": "PCM",
+         "type": 1
+      },
+      {
+         "label": "CCM",
+         "type": 1
+      },
+      {
+         "label": "BHI",
+         "type": 1
+      }
+   ],
+   "documents": [
+      {
+         "label": "allDocuments",
+         "badge": "5",
+         "type": 0
+      },
+      {
+         "label": "RPM",
+         "type": 1
+      },
+      {
+         "label": "PCM",
+         "type": 1
+      },
+      {
+         "label": "CCM",
+         "type": 1
+      },
+      {
+         "label": "BHI",
+         "type": 1
+      }
+   ],
+   "activity": [
+      {
+         "label": "allActivity",
+         "type": 0
+      }
+   ]
+}

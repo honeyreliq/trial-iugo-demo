@@ -1,0 +1,126 @@
+[
+    {
+        "uid": "1",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": " ",
+            "preferredName": " ",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "phone": "+12812520000",
+            "language": "English",
+            "email": "yejoon.kwan@example.com"
+        },
+        "careProgram": "Complex CCM",
+        "timeTarget1": {
+            "target": "3600",
+            "spent": "3600",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1800",
+            "spent": "1800",
+            "status": "Complete"
+        },
+        "timeTarget3": {
+            "target": "1800",
+            "spent": "1800",
+            "status": "Complete"
+        },
+        "timeTarget4": {
+            "target": "0",
+            "spent": "650",
+            "status": "Overtime"
+        }
+    },
+    {
+        "uid": "2",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": " ",
+            "preferredName": " ",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "phone": "+12812520000",
+            "language": "English",
+            "email": "yejoon.kwan@example.com"
+        },
+        "careProgram": "TCM",
+        "task1": {
+            "task": "Interactive Communication",
+            "status": "Complete"
+        },
+        "task2": {
+            "task": "Medication Reconciliation",
+            "status": "Complete"
+        },
+        "task3": {
+            "task": "Face to Face Visit",
+            "status": "In Progress"
+        },
+        "milestone1": {
+            "task": "30 days of TCM",
+            "status": "Incomplete"
+        }
+    },
+    {
+        "uid": "3",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": " ",
+            "preferredName": " ",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "phone": "+12812520000",
+            "language": "English",
+            "email": "yejoon.kwan@example.com"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "840",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "4",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": " ",
+            "preferredName": " ",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "phone": "+12812520000",
+            "language": "English",
+            "email": "yejoon.kwan@example.com"
+        },
+        "careProgram": "BHI",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "120",
+            "status": "In Progress"
+        }
+    }
+]

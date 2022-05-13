@@ -1,0 +1,98 @@
+[
+    {
+        "uid": "ji0348c78-3aa8-4c4e-914e-62ff09b158bd",
+        "order": "1",
+        "text": "Restricted User",
+        "description": "Has view-only access to patient information within their organization",
+        "type": "0",
+        "value": "RestrictedUser",
+        "sortable": false,
+        "organizations": [
+            "GoodHealth Clinic"
+        ],
+        "class": "text-subtitle-2"
+    },
+    {
+        "uid": "po989428-bdf0-4bf9-84de-149fc840fc96",
+        "order": "2",
+        "text": "User",
+        "description": "Has view and edit access to only patient information within their organization.",
+        "type": "0",
+        "value": "user",
+        "sortable": false,
+        "organizations": [
+            "GoodHealth Clinic"
+        ],
+        "class": "text-subtitle-2"
+    },
+    {
+        "uid": "ri8bdf22-9c5e-4700-bd5a-371a30c50c32",
+        "order": "3",
+        "text": "Organization Administrator",
+        "description": "Has view and edit access to patient and organization information within their organization",
+        "type": "0",
+        "value": "OrgAdmin",
+        "sortable": false,
+        "organizations": [
+            "GoodHealth Clinic",
+            "ProHealth Cardiology Clinic",
+            "Marvelous Medical Services"
+        ],
+        "class": "text-subtitle-2"
+    },
+    {
+        "uid": "ll971260-7744-4929-9970-aad1bfa58a2e",
+        "order": "4",
+        "text": "System Administrator",
+        "description": "Has view and edit access to all information, settings, and configurations for the organization",
+        "type": "0",
+        "value": "SysAdmin",
+        "sortable": false,
+        "organizations": [
+            "GoodHealth Clinic",
+            "ProHealth Cardiology Clinic",
+            "Marvelous Medical Services"
+        ],
+        "class": "text-subtitle-2"
+    },
+    {
+        "uid": "67hjk260-7744-4929-9970-aad1bfa5ru87",
+        "order": "5",
+        "text": "Care Manager",
+        "description": "Has view and edit access to patient data, cannot view organization data",
+        "type": "1",
+        "value": "CareManager",
+        "sortable": false,
+        "organizations": [
+            "Marvelous Medical Services"
+        ],
+        "class": "text-subtitle-2"
+    },
+    {
+        "uid": "op78a260-7744-4929-9970-88yhbfa58ff6",
+        "order": "6",
+        "text": "Assistant",
+        "description": "Has view and edit access to organization data, cannot access patient data",
+        "type": "1",
+        "value": "Assistant",
+        "sortable": false,
+        "organizations": [
+            "GoodHealth Clinic",
+            "Marvelous Medical Services"
+        ],
+        "class": "text-subtitle-2"
+    },
+    {
+        "uid": "uu11a260-7744-4929-9970-88yhbfa66gy0",
+        "order": "7",
+        "text": "Intake",
+        "description": "Has permissions to add patients and view organization information",
+        "type": "1",
+        "value": "Intake",
+        "sortable": false,
+        "organizations": [
+            "GoodHealth Clinic"
+        ],
+        "class": "text-subtitle-2"
+    }
+]

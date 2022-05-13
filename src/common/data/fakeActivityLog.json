@@ -1,0 +1,139 @@
+[
+    {
+        "id": "0",
+        "title": "Patient Added",
+        "dateAndTime": "2021-05-01T08:21:00+05:00",
+        "authorPrefix": "By: ",
+        "author": "Dolores Loyola",
+        "description": "–",
+        "type": "Account"
+    },
+    {
+        "id": "1",
+        "title": "Blood Pressure",
+        "dateAndTime": "2021-05-05T09:26:00+05:00",
+        "author": "system",
+        "descriptionPrefix": "At-Risk",
+        "description": "145/85 mmHg",
+        "type": "Observation",
+        "expandedInfo": "HR: 65 bpm"
+    },
+    {
+        "id": "2",
+        "title": "Activity",
+        "dateAndTime": "2021-05-06T08:45:00+05:00",
+        "author": "system",
+        "descriptionPrefix": "Unmonitored",
+        "description": "Duration: 42 m",
+        "type": "Observation",
+        "expandedInfo": "Distance: 594 m, Calorires: 509 kcal"
+    },
+    {
+        "id": "3",
+        "title": "Sleep",
+        "dateAndTime": "2021-05-08T09:26:00+05:00",
+        "author": "system",
+        "descriptionPrefix": "Unmonitored",
+        "description": "Total Sleep: 6h 07m",
+        "type": "Observation",
+        "expandedInfo": "Awake: 2h 02m, Deep: 1h 07m, Light: 2h 58, Times Woken: 2."
+    },
+    {
+        "id": "4",
+        "title": "Monitoring Parameters Enabled",
+        "dateAndTime": "2021-05-04T19:02:00+05:00",
+        "description": "Blood Pressure",
+        "authorPrefix": "By: ",
+        "author": "Dolores Loyola",
+        "type": "Monitoring",
+        "expandedInfo": "Monitoring Parameters: Critical High: 180/90, At-Risk High: 140/85, At-Risk Low: 90/70, Critical Low: 80/60."
+    },
+    {
+        "id": "5",
+        "title": "Note Signed",
+        "dateAndTime":"2021-05-08T14:22:00+05:00",
+        "authorPrefix": "By: ",
+        "author": "Henry Chu",
+        "description": "–",
+        "type": "Note",
+        "linkToNote": true
+    },
+    {
+        "id": "6",
+        "title": "Note Draft Modified",
+        "dateAndTime":"2021-05-07T13:52:00+05:00",
+        "authorPrefix": "By: ",
+        "author": "Henry Chu",
+        "description": "–",
+        "type": "Note",
+        "linkToNote": true
+    },
+    {
+        "id": "7",
+        "title": "Patient Added",
+        "dateAndTime": "2021-05-01T08:21:00+05:00",
+        "authorPrefix": "By: ",
+        "author": "Dolores Loyola",
+        "description": "–",
+        "type": "Account"
+    },
+    {
+        "id": "8",
+        "title": "Oxygen Saturation",
+        "dateAndTime": "2021-05-05T09:26:00+05:00",
+        "author": "system",
+        "descriptionPrefix": "At-Risk",
+        "description": "92%",
+        "type": "Observation",
+        "expandedInfo": "HR: 97 bpm"
+    },
+    {
+        "id": "9",
+        "title": "Sleep",
+        "dateAndTime": "2021-05-06T08:45:00+05:00",
+        "author": "system",
+        "descriptionPrefix": "Total Sleep",
+        "description": "6h 47m",
+        "type": "Observation",
+        "expandedInfo": "Awake: 2h 02m, Deep: 1h 47m, Light: 2h 58, Times Woken: 2."
+    },
+    {
+        "id": "10",
+        "title": "Blood Pressure",
+        "dateAndTime": "2021-05-08T09:26:00+05:00",
+        "author": "system",
+        "descriptionPrefix": "Critical",
+        "description": "195/92 mmHg",
+        "type": "Observation",
+        "expandedInfo": "HR: 87 bpm"
+    },
+    {
+        "id": "11",
+        "title": "Monitoring Parameters Disabled",
+        "dateAndTime": "2021-05-10T19:02:00+05:00",
+        "description": "Blood Pressure",
+        "authorPrefix": "By: ",
+        "author": "Dolores Loyola",
+        "type": "Monitoring"
+    },
+    {
+        "id": "12",
+        "title": "Note Signed",
+        "dateAndTime":"2021-05-08T14:22:00+05:00",
+        "authorPrefix": "By: ",
+        "author": "Henry Chu",
+        "description": "–",
+        "type": "Note",
+        "linkToNote": true
+    },
+    {
+        "id": "13",
+        "title": "Oxygen Saturation",
+        "dateAndTime": "2021-05-09T19:56:00+05:00",
+        "author": "system",
+        "descriptionPrefix": "At-Risk",
+        "description": "94%",
+        "type": "Observation",
+        "expandedInfo": "HR: 84 bpm"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "member": "Dr. Michael Vanier",
+        "role": "diabetesSpecialist"
+    },
+    {
+        "id": "2",
+        "member": "Dr. Andrea Rodriguez",
+        "role": "diabetesSpecialist"
+    },
+    {
+        "id": "3",
+        "member": "Anita Gomez",
+        "role": "diabetesEducator"
+    }
+]

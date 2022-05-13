@@ -1,0 +1,9 @@
+{
+    "activeConditions": [ "Hypertension", "Type 2 Diabetes", "Dementia" ],
+    "allergies": [ "Raw Fruit", "NSAID Drugs", "Beta Lactams" ],
+    "medicalHistory": "Patient has been in the clinic for 12 years. Patient has been receiving care for chronic conditions since their onset, no history of any conditions other than outlined. Patient has a moderate fall risk, has had no falls in the past 5 years.",
+    "surgicalHistory": "Patient had a cholecystectomy on 27 May 2008, with minor complications that resolved within 48 hours. No additional surgical history.",
+    "familyHistory": "Mother: Colon Cancer, diagnosed at age 67. Father: Diabetes, diagnoes at age 43, no additional complications.",
+    "vaccinesImmunizations": "Patients has all immunizations up to date. Last received: Influenza Vaccine, on 30 April 2019.",
+    "modifiableRiskFactors": "Patient does not meet required physical activity requirements, with fewer than 30 minutes of activity per week."
+}   

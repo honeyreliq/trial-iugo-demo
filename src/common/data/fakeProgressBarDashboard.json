@@ -1,0 +1,462 @@
+[
+    {
+        "uid": "1",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": "",
+            "preferredName": "",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "Korean",
+            "ethnicity": "",
+            "socialSecurity": "538530000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Choosing Wellness Services"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "840",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "2",
+        "patient": {
+            "givenName": "Minh",
+            "familyName": "Hong",
+            "middleName": "Thi",
+            "preferredName": "",
+            "age": "30",
+            "gender": "F",
+            "birthDate": "10/05/1991",
+            "language": "English",
+            "maritalStatus": "Domestic Partner",
+            "race": "Vietnamese",
+            "ethnicity": "",
+            "socialSecurity": "123450000",
+            "workingStatus": "Full Time",
+            "employer": "Tortoisecurity",
+            "organization": "Capable Care Clinical Practice"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "80",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Incomplete"
+        }
+    },
+    {
+        "uid": "3",
+        "patient": {
+            "givenName": "Gabriela",
+            "familyName": "Moreno",
+            "middleName": "Maria",
+            "preferredName": "",
+            "age": "74",
+            "gender": "F",
+            "birthDate": "02/04/1947",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "",
+            "ethnicity": "Mexican",
+            "socialSecurity": "538530000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Good Health Clinic"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "960",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "4",
+        "patient": {
+            "givenName": "Manuel",
+            "familyName": "Alonso",
+            "middleName": "Jorge",
+            "preferredName": "Jorge",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "01/31/1945",
+            "language": "Spanish",
+            "maritalStatus": "Divorced",
+            "race": "",
+            "ethnicity": "Mexican",
+            "socialSecurity": "680380000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "HealthQuest Clinic"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "1000",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "5",
+        "patient": {
+            "givenName": "Monique",
+            "familyName": "Caron",
+            "middleName": "Jean",
+            "preferredName": "Jean",
+            "age": "87",
+            "gender": "F",
+            "birthDate": "08/16/1934",
+            "language": "English",
+            "maritalStatus": "Divorced",
+            "race": "",
+            "ethnicity": "",
+            "socialSecurity": "567350000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Choosing Wellness Services"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "556",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Incomplete"
+        }
+    },
+    {
+        "uid": "6",
+        "patient": {
+            "givenName": "Marc",
+            "familyName": "Gauvin",
+            "middleName": "Gustave",
+            "preferredName": "",
+            "age": "98",
+            "gender": "M",
+            "birthDate": "12/30/1923",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "French",
+            "ethnicity": "",
+            "socialSecurity": "645640022",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "GoodHealth Clinic"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "600",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "7",
+        "patient": {
+            "givenName": "Viet",
+            "familyName": "Phan",
+            "middleName": "Gan",
+            "preferredName": "",
+            "age": "74",
+            "gender": "M",
+            "birthDate": "04/11/1947",
+            "language": "English",
+            "maritalStatus": "Widowed",
+            "race": "Vietnamese",
+            "ethnicity": "",
+            "socialSecurity": "516160000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Capable Care Clinical Practice"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1030",
+            "status": "Complete"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "8",
+        "patient": {
+            "givenName": "Catalina",
+            "familyName": "Garcia Rodriguez",
+            "middleName": "Camila",
+            "preferredName": "Catalina",
+            "age": "84",
+            "gender": "F",
+            "birthDate": "11/14/1937",
+            "language": "Spanish",
+            "maritalStatus": "Divorced",
+            "race": "",
+            "ethnicity": "Colombian",
+            "socialSecurity": "512080000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "GoodHealth Clinic"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget3": {
+            "target": "1200",
+            "spent": "60",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "9",
+        "patient": {
+            "givenName": "James",
+            "familyName": "Tran",
+            "middleName": "Tai",
+            "preferredName": "",
+            "age": "88",
+            "gender": "M",
+            "birthDate": "04/14/1933",
+            "language": "English",
+            "maritalStatus": "Widowed",
+            "race": "Vietnamese",
+            "ethnicity": "",
+            "socialSecurity": "538530000",
+            "workingStatus": "Full Time",
+            "employer": "Omnia Inc.",
+            "organization": "GoodHealth Clinic"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "10",
+        "patient": {
+            "givenName": "Richard",
+            "familyName": "Hart",
+            "middleName": "James",
+            "preferredName": "",
+            "age": "77",
+            "gender": "M",
+            "birthDate": "01/17/1944",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "African American",
+            "ethnicity": "",
+            "socialSecurity": "567350000",
+            "workingStatus": "Part Time",
+            "employer": "Zenith Co.",
+            "organization": "GoodHealth Clinic"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "900",
+            "status": "Complete"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Incomplete"
+        }
+    },
+    {
+        "uid": "11",
+        "patient": {
+            "givenName": "Josiah",
+            "familyName": "Corporal",
+            "middleName": "Brett",
+            "preferredName": "",
+            "age": "86",
+            "gender": "M",
+            "birthDate": "12/16/1935",
+            "language": "Tagalog",
+            "maritalStatus": "Married",
+            "race": "Filipino",
+            "ethnicity": "Filipino",
+            "socialSecurity": "538530000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Marvelous Medical Services"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "400",
+            "status": "Incomplete"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "12",
+        "patient": {
+            "givenName": "Maria Alejandra",
+            "familyName": "Ortega Velasquez",
+            "middleName": "",
+            "preferredName": "Valentina",
+            "age": "80",
+            "gender": "U",
+            "birthDate": "03/09/1941",
+            "language": "Spanish",
+            "maritalStatus": "Divorced",
+            "race": "Colombian",
+            "ethnicity": "Latina",
+            "socialSecurity": "567-35-0000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Dynamic Health Services"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "840",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "13",
+        "patient": {
+            "givenName": "Tiva",
+            "familyName": "Nittawosew",
+            "middleName": "",
+            "preferredName": "",
+            "age": "48",
+            "gender": "F",
+            "birthDate": "07/07/1973",
+            "language": "English",
+            "maritalStatus": "Domestic Partner",
+            "race": "Cherokee",
+            "ethnicity": "South American Indian",
+            "socialSecurity": "123450000",
+            "workingStatus": "Full Time",
+            "employer": "Globe Microsystems",
+            "organization": "ProHealth Cardiology Clinic"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "timeTarget2": {
+            "target": "1200",
+            "spent": "98",
+            "status": "In Progress"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    },
+    {
+        "uid": "14",
+        "patient": {
+            "givenName": "Hattie",
+            "familyName": "Pendleton",
+            "middleName": "Gloria",
+            "preferredName": "",
+            "age": "85",
+            "gender": "F",
+            "birthDate": "12/22/1936",
+            "language": "English",
+            "maritalStatus": "Widowed",
+            "race": "English",
+            "ethnicity": "",
+            "socialSecurity": "567350000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Marvelous Medical Services"
+        },
+        "careProgram": "RPM",
+        "timeTarget1": {
+            "target": "1200",
+            "spent": "1200",
+            "status": "Complete"
+        },
+        "task1": {
+            "task": "Adherence",
+            "status": "Complete"
+        }
+    }
+]

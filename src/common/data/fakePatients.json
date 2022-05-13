@@ -1,0 +1,983 @@
+[
+    {        
+        "uid": "1",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": "",
+            "preferredName": "",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "Korean",
+            "ethnicity": "",
+            "socialSecurity": "538530000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Choosing Wellness Services"
+        },
+        "contactInformation": {
+            "preferredContact": "Home Phone",
+            "email": "yejoon.kwan@example.com",
+            "homePhone": "+12812520000",
+            "cellPhone": "+12811230000",
+            "officePhone": "",
+            "address": "7710 Kyle Street",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77002",
+            "emergencyContactLastName": "Kwan",
+            "emergencyContactFirstName": "William",
+            "emergencyHomePhone": "+12811830000",
+            "emergencyCellPhone": "+12812590000",
+            "emergencyRelationship": "Spouse"
+        },
+        "allergies":[
+            "Raw Fruit",
+            "NSAID Drugs",
+            "Beta Lactams"
+        ],
+        "conditions": [
+            "Hypertension",
+            "Type 2 Diabetes",
+            "Dementia"
+        ],
+        "primaryCareProvider": {
+            "uid": "1",
+            "name": "Dr. Parvati Khan",
+            "phone": "+12814240000",
+            "email": "parvati.khan@example.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "314159265",
+            "address": "11980 Glenmore Dr",
+            "state": "FL",
+            "zipPostalCode": "10200"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiry",
+            "tspExpiry": "11/17/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM"
+        ],
+        "status": "active",
+        "privacyMode": true
+    },
+    {         
+        "uid": "2",
+        "patient": {
+            "givenName": "Minh",
+            "familyName": "Hong",
+            "middleName": "Thi",
+            "preferredName": "",
+            "age": "30",
+            "gender": "F",
+            "birthDate": "10/05/1991",
+            "language": "English",
+            "maritalStatus": "Domestic Partner",
+            "race": "Vietnamese",
+            "ethnicity": "",
+            "socialSecurity": "123450000",
+            "workingStatus": "Full Time",
+            "employer": "Tortoisecurity",
+            "organization": "Capable Care Clinical Practice"
+        },
+        "contactInformation": {
+            "preferredContact": "Cell Phone",
+            "email": "minh.hong@example.com",
+            "homePhone": "+12816340000",
+            "cellPhone": "+12810210000",
+            "officePhone": "+12814870000",
+            "address": "674 Felosa Drive",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77001",
+            "emergencyContactLastName": "Talbott",
+            "emergencyContactFirstName": "Andrew",
+            "emergencyHomePhone": "+12815550000",
+            "emergencyCellPhone": "+12819330000",
+            "emergencyRelationship": "Emergency Contact"
+        },
+        "allergies":[
+            "Ragweed"
+        ],
+        "conditions": [
+            "High Blood Pressure",
+            "Chronic Kidney Disease"
+        ],
+        "primaryCareProvider": {
+            "uid": "2",
+            "name": "Henry Chu",
+            "phone": "+16268560000",
+            "email": "henry.chu@example.com",
+            "type": "Nurse Practitioner",
+            "status": "Active",
+            "npi": "3589793238",
+            "address": "42 Parkland Ave",
+            "state": "FL",
+            "zipPostalCode": "10250"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "incomplete",
+            "tspExpiry": ""
+        },
+        "programs":[
+            "RPM"
+        ],
+        "status": "new",
+        "privacyMode": false
+    },
+    {         
+        "uid": "3",
+        "patient": {
+            "givenName": "Gabriela",
+            "familyName": "Moreno",
+            "middleName": "Maria",
+            "preferredName": "",
+            "age": "74",
+            "gender": "F",
+            "birthDate": "02/04/1947",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "",
+            "ethnicity": "Mexican",
+            "socialSecurity": "538530000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Good Health Clinic"
+        },
+        "contactInformation": {
+            "preferredContact": "Home Phone",
+            "email": "gabriela.moreno@example.com",
+            "homePhone": "+12815560000",
+            "cellPhone": "+12815670000",
+            "officePhone": "",
+            "address": "5695 Grey Fox Farm Road",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77003",
+            "emergencyContactLastName": "Sánchez",
+            "emergencyContactFirstName": "José ",
+            "emergencyHomePhone": "+12812930000",
+            "emergencyCellPhone": "+12815490000",
+            "emergencyRelationship": "Spouse"
+        },
+        "allergies":[
+            "Cephalosporins"
+        ],
+        "conditions": [
+            "Diabetes",
+            "Dementia"
+        ],
+        "primaryCareProvider": {
+            "uid": "3",
+            "name": "Dr. Paul Lin",
+            "phone": "+12397450000",
+            "email": "paul.lin@example.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "279502884",
+            "address": "9099 Main St. West",
+            "state": "FL",
+            "zipPostalCode": "10200"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expired",
+            "tspExpiry": "01/09/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM"
+        ],
+        "status": "active",
+        "privacyMode": false
+    },
+    {         
+        "uid": "4",
+        "patient": {
+            "givenName": "Manuel",
+            "familyName": "Alonso",
+            "middleName": "Jorge",
+            "preferredName": "Jorge",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "01/31/1945",
+            "language": "Spanish",
+            "maritalStatus": "Divorced",
+            "race": "",
+            "ethnicity": "Mexican",
+            "socialSecurity": "680380000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "HealthQuest Clinic"
+        },
+        "contactInformation": {
+            "preferredContact": "Email",
+            "email": "manuel.alonso@example.com",
+            "homePhone": "+12812520000",
+            "cellPhone": "+12813680000",
+            "officePhone": "+12813680000",
+            "address": "7480 Lang Avenue",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77002",
+            "emergencyContactLastName": "Serrano",
+            "emergencyContactFirstName": "Antonio",
+            "emergencyHomePhone": "+12814850000",
+            "emergencyCellPhone": "+12813390000",
+            "emergencyRelationship": "Friend"
+        },
+        "allergies":[
+            "Dust"
+        ],
+        "conditions": [
+            "Chronic Heart Failure",
+            "High Blood Pressure"
+        ],
+        "primaryCareProvider": {
+            "name": "No Provider Assigned",
+            "phone": ""
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiring",
+            "tspExpiry": "05/26/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM"
+        ],
+        "status": "active",
+        "privacyMode": true
+    },
+    {         
+        "uid": "5",
+        "patient": {
+            "givenName": "Monique",
+            "familyName": "Caron",
+            "middleName": "Alicia",
+            "preferredName": "Alicia",
+            "age": "68",
+            "gender": "F",
+            "birthDate": "04/28/1953",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "",
+            "ethnicity": "",
+            "socialSecurity": "567350000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Sunny Side Long Term Care Facility"
+        },
+        "contactInformation": {
+            "preferredContact": "Email",
+            "email": "mcaron@gmail.com",
+            "homePhone": "+13458887728",
+            "cellPhone": "+13458887727",
+            "officePhone": "",
+            "address": "123 Main St W",
+            "city": "Dallas",
+            "state": "TX",
+            "zipPostalCode": "12345",
+            "emergencyContactLastName": "Caron",
+            "emergencyContactFirstName": "Josh",
+            "emergencyHomePhone": "+15558885555",
+            "emergencyCellPhone": "+12812940000",
+            "emergencyRelationship": "Brother"
+        },
+        "allergies":[
+            "Peanuts",
+            "Penicillin"
+        ],
+        "conditions": [
+            "Hypertension",
+            "Dementia",
+            "Diabetes Type 2"
+        ],
+        "primaryCareProvider": {
+            "uid": "4",
+            "name": "Dr. Michael Vanier",
+            "phone": "+15555278736",
+            "email": "mvanier@doctor.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "56454200",
+            "address": "48 Crescent Rd, Suite 122",
+            "state": "FL",
+            "zipPostalCode": "16002"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiry",
+            "tspExpiry": "11/23/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM"
+        ],
+        "status": "active",
+        "privacyMode": false
+    },
+    {         
+        "uid": "6",
+        "patient": {
+            "givenName": "Marc",
+            "familyName": "Gauvin",
+            "middleName": "Gustave",
+            "preferredName": "",
+            "age": "98",
+            "gender": "M",
+            "birthDate": "12/30/1923",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "French",
+            "ethnicity": "",
+            "socialSecurity": "645640022",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "GoodHealth Clinic"
+        },
+        "contactInformation": {
+            "preferredContact": "Email",
+            "email": "marc.gauvin@example.com",
+            "homePhone": "+12812374900",
+            "cellPhone": "+12812740000",
+            "officePhone": "",
+            "address": "9692 Illinois Avenue",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77004",
+            "emergencyContactLastName": "Kourtwell",
+            "emergencyContactFirstName": "Marie",
+            "emergencyHomePhone": "+12813490000",
+            "emergencyCellPhone": "+12816960000",
+            "emergencyRelationship": "Spouse"
+        },
+        "allergies":[
+            " "
+        ],
+        "conditions": [
+            "Ostheoporosis",
+            "High Blood Pressure",
+            "Irritable Bowel Syndrome"
+        ],
+        "primaryCareProvider": {
+            "uid": "5",
+            "name": "Moira O'Connell",
+            "phone": "+16173420000",
+            "email": "moira.oconnell@example.com",
+            "type": "Clinical Nurse Specialist",
+            "status": "Active",
+            "npi": "47878593849",
+            "address": "3500 Morningside Rd, Unit 1",
+            "state": "TX",
+            "zipPostalCode": "99890"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "incomplete",
+            "tspExpiry": ""
+        },
+        "programs":[
+            "CCM"
+        ],
+        "status": "inactive",
+        "privacyMode": false
+    },
+    {         
+        "uid": "7",
+        "patient": {
+            "givenName": "Viet",
+            "familyName": "Phan",
+            "middleName": "Gan",
+            "preferredName": "",
+            "age": "74",
+            "gender": "M",
+            "birthDate": "04/11/1947",
+            "language": "English",
+            "maritalStatus": "Widowed",
+            "race": "Vietnamese",
+            "ethnicity": "",
+            "socialSecurity": "516160000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Capable Care Clinical Practice"
+        },
+        "contactInformation": {
+            "preferredContact": "Home Phone",
+            "email": "viet.phan@example.com",
+            "homePhone": "+12814758900",
+            "cellPhone": "+12810210000",
+            "officePhone": "",
+            "address": "7284 Limer Street",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77003",
+            "emergencyContactLastName": "Bui",
+            "emergencyContactFirstName": "Tai",
+            "emergencyHomePhone": "+12815550000",
+            "emergencyCellPhone": "+12819330000",
+            "emergencyRelationship": "Cousin"
+        },
+        "allergies":[
+            " "
+        ],
+        "conditions": [
+            "Diabetes",
+            "High Blood Pressure"
+        ],
+        "primaryCareProvider": {
+            "uid": "6",
+            "name": "Dr. Johnathan Hae-Won",
+            "phone": "+16263610000",
+            "email": "johnathan.haewon@example.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "57874857847",
+            "address": "3500 Morningside Rd, uni 12",
+            "state": "TX",
+            "zipPostalCode": "99890"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiry",
+            "tspExpiry": "11/23/2021"
+        },
+        "programs":[
+            "PCM"
+        ],
+        "status": "deceased",
+        "privacyMode": false
+    },
+    {         
+        "uid": "8",
+        "patient": {
+            "givenName": "Catalina",
+            "familyName": "Garcia Rodriguez",
+            "middleName": "Camila",
+            "preferredName": "Catalina",
+            "age": "84",
+            "gender": "F",
+            "birthDate": "11/14/1937",
+            "language": "Spanish",
+            "maritalStatus": "Divorced",
+            "race": "",
+            "ethnicity": "Colombian",
+            "socialSecurity": "512080000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "GoodHealth Clinic"
+        },
+        "contactInformation": {
+            "preferredContact": "Home Phone",
+            "email": "catalina.garciarodriguez@example.com",
+            "homePhone": "+12812537378",
+            "cellPhone": "+12813680000",
+            "officePhone": "",
+            "address": "593 Wood Street",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77001",
+            "emergencyContactLastName": "Ortiz",
+            "emergencyContactFirstName": "Esteban",
+            "emergencyHomePhone": "+12814850000",
+            "emergencyCellPhone": "+12813390000",
+            "emergencyRelationship": "Nephew"
+        },
+        "allergies":[
+            "Penicillin"
+        ],
+        "conditions": [
+            "Chronic Liver Disease",
+            "Diabetes",
+            "Major Depressive Disorder"
+        ],
+        "primaryCareProvider": {
+            "uid": "7",
+            "name": "Dr. William Koryusai",
+            "phone": "+16078840000",
+            "email": "william.koryusai@example.com",
+            "type": "Physician",
+            "status": "Inactive",
+            "npi": "2773090944",
+            "address": "99 Gladiola Rd",
+            "state": "CA",
+            "zipPostalCode": "78400"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiry",
+            "tspExpiry": "11/23/2021"
+        },
+        "programs":[
+            "BHI"
+        ],
+        "status": "transferred",
+        "privacyMode": false
+    },
+    {         
+        "uid": "9",
+        "patient": {
+            "givenName": "James",
+            "familyName": "Tran",
+            "middleName": "Tai",
+            "preferredName": "",
+            "age": "88",
+            "gender": "M",
+            "birthDate": "04/14/1933",
+            "language": "English",
+            "maritalStatus": "Widowed",
+            "race": "Vietnamese",
+            "ethnicity": "",
+            "socialSecurity": "538530000",
+            "workingStatus": "Full Time",
+            "employer": "Omnia Inc.",
+            "organization": "GoodHealth Clinic"
+        },
+        "contactInformation": {
+            "preferredContact": "Home Phone",
+            "email": "james.tran@example.com",
+            "homePhone": "+12812292988",
+            "cellPhone": "+12810210000",
+            "officePhone": "+12816340000",
+            "address": "2644 Flint Street",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77003",
+            "emergencyContactLastName": "Curliss",
+            "emergencyContactFirstName": "Nicholas",
+            "emergencyHomePhone": "+12815550000",
+            "emergencyCellPhone": "",
+            "emergencyRelationship": "Neighbor"
+        },
+        "allergies":[
+            "Seafood",
+            "Peanuts",
+            "Onions"
+        ],
+        "conditions": [
+            "Diabetes",
+            "High Blood Pressure",
+            "Ostheoporosis"
+        ],
+        "primaryCareProvider": {
+            "uid": "8",
+            "name": "Dr. Helen Rowett",
+            "phone": "+16173540000",
+            "email": "helen.rowett@example.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "7800077111",
+            "address": "2-700 Densmure Rd. S",
+            "state": "CO",
+            "zipPostalCode": "34354"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiring",
+            "tspExpiry": "05/14/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM"
+        ],
+        "status": "active",
+        "privacyMode": true
+    },
+    {         
+        "uid": "10",
+        "patient": {
+            "givenName": "Richard",
+            "familyName": "Hart",
+            "middleName": "James",
+            "preferredName": "",
+            "age": "77",
+            "gender": "M",
+            "birthDate": "01/17/1944",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "African American",
+            "ethnicity": "",
+            "socialSecurity": "567350000",
+            "workingStatus": "Part Time",
+            "employer": "Zenith Co.",
+            "organization": "GoodHealth Clinic"
+        },
+        "contactInformation": {
+            "preferredContact": "Email",
+            "email": "richard.hart@example.com",
+            "homePhone": "+12823239900",
+            "cellPhone": "+12810240000",
+            "officePhone": "+12812350000",
+            "address": "5714 Fulton Street",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77002",
+            "emergencyContactLastName": "Hart",
+            "emergencyContactFirstName": "Jalene",
+            "emergencyHomePhone": "",
+            "emergencyCellPhone": "+12814850000",
+            "emergencyRelationship": "Spouse"
+        },
+        "allergies":[
+            "Aspirin",
+            "Beta lactam drugs"
+        ],
+        "conditions": [
+            "Anxiety Disorder",
+            "High Blood Pressure",
+            "Fibromialgia",
+            "Colon Cancer, in remission"
+        ],
+        "primaryCareProvider": {
+            "name": "No Provider Assigned",
+            "phone": ""
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expired",
+            "tspExpiry": "02/11/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM",
+            "BHI"
+        ],
+        "status": "new",
+        "privacyMode": true
+    },
+    {         
+        "uid": "11",
+        "patient": {
+            "givenName": "Josiah",
+            "familyName": "Corporal",
+            "middleName": "Brett",
+            "preferredName": "",
+            "age": "86",
+            "gender": "M",
+            "birthDate": "12/16/1935",
+            "language": "Tagalog",
+            "maritalStatus": "Married",
+            "race": "Filipino",
+            "ethnicity": "Filipino",
+            "socialSecurity": "538530000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Marvelous Medical Services"
+        },
+        "contactInformation": {
+            "preferredContact": "Emergency Contact",
+            "email": "josiah.corporal@example.com",
+            "homePhone": "+12812233876",
+            "cellPhone": "+12810240000",
+            "officePhone": "",
+            "address": "2482 Pick Street",
+            "city": "McAllen",
+            "state": "Texas",
+            "zipPostalCode": "77003",
+            "emergencyContactLastName": "Corporal",
+            "emergencyContactFirstName": "Mia",
+            "emergencyHomePhone": "+12814850000",
+            "emergencyCellPhone": "",
+            "emergencyRelationship": "Spouse"
+        },
+        "allergies":[
+            "Latex"
+        ],
+        "conditions": [
+            "Diabetes",
+            "High Blood Pressure",
+            "Atrial Fibrilation"
+        ],
+        "primaryCareProvider": {
+            "uid": "9",
+            "name": "Maria Koziol",
+            "phone": "+14156340000",
+            "email": "maria.koziol@example.com",
+            "type": "Clinical Nurse Specialist",
+            "status": "Active",
+            "npi": "618984676",
+            "address": "7 Round St. Suite 401",
+            "state": "CO",
+            "zipPostalCode": "34354"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiry",
+            "tspExpiry": "11/17/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM"
+        ],
+        "status": "new",
+        "privacyMode": false
+    },
+    {         
+        "uid": "12",
+        "patient": {
+            "givenName": "Maria Alejandra",
+            "familyName": "Ortega Velasquez",
+            "middleName": "",
+            "preferredName": "Valentina",
+            "age": "80",
+            "gender": "U",
+            "birthDate": "03/09/1941",
+            "language": "Spanish",
+            "maritalStatus": "Divorced",
+            "race": "Colombian",
+            "ethnicity": "Latina",
+            "socialSecurity": "567-35-0000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Dynamic Health Services"
+        },
+        "contactInformation": {
+            "preferredContact": "Home Phone",
+            "email": "mariaalejandra.ortegavelasquez@example.com",
+            "homePhone": "+12813737900",
+            "cellPhone": "+12815650000",
+            "officePhone": "",
+            "address": "6362 Thrash Trail",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77002",
+            "emergencyContactLastName": "Sierra",
+            "emergencyContactFirstName": "Tatiana",
+            "emergencyHomePhone": "",
+            "emergencyCellPhone": "+12813390000",
+            "emergencyRelationship": "Acquaintance"
+        },
+        "allergies":[
+            "Bee stings",
+            "Dust Mites"
+        ],
+        "conditions": [
+            "Chronic Heart Failure",
+            "High Blood Pressure",
+            "Peripheral Artery Disease",
+            "Asthma"
+        ],
+        "primaryCareProvider": {
+            "uid": "10",
+            "name": "Megumi Kawashima",
+            "phone": "+12546620000",
+            "email": "megumi.kawashima@example.com",
+            "type": "Nurse Practitioner",
+            "status": "Active",
+            "npi": "2551907",
+            "address": "32 West Field Rd. Unit 330",
+            "state": "OR",
+            "zipPostalCode": "20340"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "incomplete",
+            "tspExpiry": ""
+        },
+        "programs":[
+            "RPM",
+            "CCM",
+            "BHI"
+        ],
+        "status": "active",
+        "privacyMode": false
+    },
+    {         
+        "uid": "13",
+        "patient": {
+            "givenName": "Tiva",
+            "familyName": "Nittawosew",
+            "middleName": "",
+            "preferredName": "",
+            "age": "48",
+            "gender": "F",
+            "birthDate": "07/07/1973",
+            "language": "English",
+            "maritalStatus": "Domestic Partner",
+            "race": "Cherokee",
+            "ethnicity": "South American Indian",
+            "socialSecurity": "123450000",
+            "workingStatus": "Full Time",
+            "employer": "Globe Microsystems",
+            "organization": "ProHealth Cardiology Clinic"
+        },
+        "contactInformation": {
+            "preferredContact": "Cell Phone",
+            "email": "tiva.nittawosew@example.com",
+            "homePhone": "+12812520000",
+            "cellPhone": "+12811230000",
+            "officePhone": "+12569896564",
+            "address": "497 Snowbird Lane ",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77004",
+            "emergencyContactLastName": "Chapawee",
+            "emergencyContactFirstName": "Sihu",
+            "emergencyHomePhone": "+12811830000",
+            "emergencyCellPhone": "",
+            "emergencyRelationship": "Emergency Contact"
+        },
+        "allergies":[
+            "Sulphinamides",
+            "NSAIDs"
+        ],
+        "conditions": [
+            "Diabetes",
+            "Chronic Obstructive Pulmonary Disease (COPD)"
+        ],
+        "primaryCareProvider": {
+            "uid": "11",
+            "name": "Dr. Michael Vanier",
+            "phone": "+12392380000",
+            "email": "mvanier@doctor.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "2323445400",
+            "address": "46 Sunflower St. Suite 10",
+            "state": "FL",
+            "zipPostalCode": "87300"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expired",
+            "tspExpiry": "01/09/2021"
+        },
+        "programs":[
+            "RPM"
+        ],
+        "status": "active",
+        "privacyMode": false
+    },
+    {         
+        "uid": "14",
+        "patient": {
+            "givenName": "Hattie",
+            "familyName": "Pendleton",
+            "middleName": "Gloria",
+            "preferredName": "",
+            "age": "85",
+            "gender": "F",
+            "birthDate": "12/22/1936",
+            "language": "English",
+            "maritalStatus": "Widowed",
+            "race": "English",
+            "ethnicity": "",
+            "socialSecurity": "567350000",
+            "workingStatus": "Retired",
+            "employer": "",
+            "organization": "Marvelous Medical Services"
+        },
+        "contactInformation": {
+            "preferredContact": "Cell Phone",
+            "email": "hattie.pendleton@example.com",
+            "homePhone": "+12810088244",
+            "cellPhone": "+12812520000",
+            "officePhone": "",
+            "address": "163 Byers Lane",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77001",
+            "emergencyContactLastName": "Taylor",
+            "emergencyContactFirstName": "Brian",
+            "emergencyHomePhone": "+12811830000",
+            "emergencyCellPhone": "+12812590000",
+            "emergencyRelationship": "Grandson"
+        },
+        "allergies":[
+            "Fluoroquinolones",
+            "Macrolides",
+            "Cephalosporins",
+            "Beta Lactam drugs"
+        ],
+        "conditions": [
+            "Diabetes",
+            "High Blood Pressure",
+            "Asthma",
+            "Chronic Heart Failure",
+            "Schizoaffective Disorder"
+        ],
+        "primaryCareProvider": {
+            "uid": "12",
+            "name": "Dr. Fadiyah Badriyah-Harb",
+            "phone": "+16174380000",
+            "email": "fadiyah.badriyahharb@example.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "239007800",
+            "address": "45 Main Field St. Unit 4",
+            "state": "NJ",
+            "zipPostalCode": "67400"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "expiring",
+            "tspExpiry": "05/26/2021"
+        },
+        "programs":[
+            "RPM",
+            "CCM",
+            "BHI"
+        ],
+        "status": "active",
+        "privacyMode": false
+    },
+    {         
+        "uid": "15",
+        "patient": {
+            "givenName": "Romeo",
+            "familyName": "Astillo",
+            "middleName": "Urbano",
+            "preferredName": "",
+            "age": "68",
+            "gender": "M",
+            "birthDate": "05/22/1953",
+            "language": "English",
+            "maritalStatus": "Married",
+            "race": "Filipino",
+            "ethnicity": "Filipino",
+            "socialSecurity": "376720000",
+            "workingStatus": "Full Time",
+            "employer": "Globe Microsystems",
+            "organization": "Harmony Home Health Agency"
+        },
+        "contactInformation": {
+            "preferredContact": "Cell Phone",
+            "email": "",
+            "homePhone": "+12812256567",
+            "cellPhone": "+12816340000",
+            "officePhone": "+12817447400",
+            "address": "631 Trymore Road",
+            "city": "Houston",
+            "state": "TX",
+            "zipPostalCode": "77001",
+            "emergencyContactLastName": "Astillo",
+            "emergencyContactFirstName": "Denisse",
+            "emergencyHomePhone": "+12815550000",
+            "emergencyCellPhone": "+12819330000",
+            "emergencyRelationship": "Spouse"
+        },
+        "allergies":[
+            "Ragweed",
+            "Peanuts"
+        ],
+        "conditions": [
+            "Diabetes",
+            "High Blood Pressure"
+        ],
+        "primaryCareProvider": {
+            "uid": "13",
+            "name": "Dr. Ghita Orozco Montenegro",
+            "phone": "+16077820000",
+            "email": "ghita.orozcomontenegro@example.com",
+            "type": "Physician",
+            "status": "Active",
+            "npi": "32384626433",
+            "address": "42 Valley Rd West, Unit 2",
+            "state": "WA",
+            "zipPostalCode": "45101"
+        },
+        "telemonitoringServicePlan": {
+            "tspStatus": "incomplete",
+            "tspExpiry": ""
+        },
+        "programs":[
+            "CCM"
+        ],
+        "status": "inactive",
+        "privacyMode": false
+    }
+]

@@ -1,0 +1,277 @@
+[
+    {
+        "id": "1",
+        "title": "CCM Care Plan Review",
+        "status": "Signed",
+        "author": "Vanier, Michael",
+        "timeEntry": {
+            "program": "CCM",
+            "timeSpent": "19 mins 42 secs"
+        },
+        "text": "Reviewed patient's CCM Care plan. Updated their medications as per the patients original treatment plan. Attempted to contact patient to follow-up to confirm medication change as prescribed by specialist, located them on third attempt, patient was made aware and has continued to take medications correctly. No other issues were reported.",
+        "tags": [
+            {
+                "id": "1",
+                "text": "Education (Medication Adherence)"
+            },
+            {
+                "id": "2",
+                "text": "Medication Management"
+            },
+            {
+                "id": "3",
+                "text": "Care Coordination"
+            },
+            {
+                "id": "4",
+                "text": "Patient Care (Condition/Assessment)"
+            }
+        ],
+        "isoDateCreated": "2021-04-14T10:24:10-04:00",
+        "isoLastUpdated": "2021-04-14T10:24:10-04:00",
+        "amendments": [
+            {
+                "id": "1",
+                "title": "CCM Care Plan Review",
+                "status": "Draft",
+                "author": "Vanier, Michael",
+                "timeEntry": {
+                    "program": "CCM",
+                    "timeSpent": "2 mins 20 secs"
+                },
+                "text": "Received a call from the patient's caregiver indicating that they were concerned about the medication change. After reviewing previous notes, it was decided to consult with specialist before continuing medication change.",
+                "tags": [
+                    {
+                        "id": "1",
+                        "text": "Medication Management"
+                    }
+                ],
+                "isoDateCreated": "2021-04-16T15:30:10-04:00",
+                "isoLastUpdated": "2021-04-16T15:30:10-04:00"
+            },
+            {
+                "id": "2",
+                "title": "CCM Care Plan Review",
+                "status": "Signed",
+                "author": "Vanier, Michael",
+                "timeEntry": {
+                    "program": "CCM",
+                    "timeSpent": "3 mins 50 secs"
+                },
+                "text": "Consulted with specialist, who indicated no changes to current medication regimen. Informed patient.",
+                "tags": [
+                    {
+                        "id": "1",
+                        "text": "Medication Management"
+                    }
+                ],
+                "isoDateCreated": "2021-04-17T14:20:10-04:00",
+                "isoLastUpdated": "2021-04-17T14:20:10-04:00"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Review of Medication changes",
+        "status": "Draft",
+        "author": "Vanier, Michael",
+        "timeEntry": {
+            "program": "CCM",
+            "timeSpent": "11 mins 23 secs"
+        },
+        "text": "Following hospital discharge, the patient's medication regime needs to be updated to eventually return to pre-hospitalization doses. Based on the provider's documentation, made necessary updates to patient's medications. Attempted to contact patient, unsuccessful as of today, will attempt again within 24 hours.",
+        "tags": [
+            {
+                "id": "1",
+                "text": "Education (Medication Adherence)"
+            },
+            {
+                "id": "3",
+                "text": "Care Coordination"
+            },
+            {
+                "id": "4",
+                "text": "Patient Care (Condition/Assessment)"
+            }
+        ],
+        "isoDateCreated": "2021-04-12T12:38:10-04:00",
+        "isoLastUpdated": "2021-04-11T16:14:10-04:00",
+        "amendments": [
+            {
+                 "id": "1",
+                 "title": "CCM Care Plan Review",
+                 "status": "Signed",
+                 "author": "Vanier, Michael",
+                 "timeEntry": {
+                     "program": "CCM",
+                     "timeSpent": "8 mins 10 secs"
+                 },
+                 "text": "Contacted patient on 21APR2021 to update on progress, patient understood the impact of treatment, no additional questions asked.",
+                 "tags": [
+                     {
+                         "id": "1",
+                         "text": "Education"
+                     }
+                 ],
+                 "isoDateCreated": "2021-04-21T19:30:10-04:00",
+                 "isoLastUpdated": "2021-04-21T19:30:10-04:00"
+             }
+         ]
+    },
+    {
+        "id": "3",
+        "title": "At Risk Observation Report",
+        "status": "Signed",
+        "author": "Vanier, Michael",
+        "timeEntry": {
+            "program": "RPM",
+            "timeSpent": "00 mins 43 secs"
+        },
+        "text": "Received a notification for an At Risk observation this morning. This is attributed to the patient experiencing an infection for which they are receiving treatment, and no further action is necessary at the moment.",
+        "tags": [
+            {
+                "id": "3",
+                "text": "Care Coordination"
+            },
+            {
+                "id": "4",
+                "text": "Patient Care (Condition/Assessment)"
+            }
+        ],
+        "isoDateCreated": "2021-04-07T18:16:10-04:00",
+        "isoLastUpdated": "2021-04-07T18:16:10-04:00",
+        "amendments": [
+            {
+                "id": "1",
+                "title": "RPM Updates",
+                "status": "Draft",
+                "author": "Vanier, Michael",
+                "timeEntry": {
+                    "program": "RPM",
+                    "timeSpent": "02 mins 20 secs"
+                },
+                "text": "Reviewed patient's medication as per pharmacist's request, noted changes to antimicrobial treatment. Changes to patient instructions will be updated.",
+                "tags": [
+                    {
+                        "id": "1",
+                        "text": "Medication Management"
+                    }
+                ],
+                "isoDateCreated": "2021-04-09T15:16:10-04:00",
+                "isoLastUpdated": "2021-04-09T15:51:00-04:00"
+            },
+            {
+                "id": "2",
+                "title": "RPM Updates",
+                "status": "Signed",
+                "author": "Vanier, Michael",
+                "timeEntry": {
+                    "program": "RPM",
+                    "timeSpent": "00 mins 50 secs"
+                },
+                "text": "Called patient to inform them of changes in antimicrobial treatment, patient understood changes in dosage and frequency, no impact on rest of treatment or medication plan.",
+                "tags": [
+                    {
+                        "id": "1",
+                        "text": "Medication Management"
+                    }
+                ],
+                "isoDateCreated": "2021-04-09T22:20:10-04:00",
+                "isoLastUpdated": "2021-04-09T22:20:10-04:00"
+            },
+            {
+                "id": "3",
+                "title": "RPM Updates",
+                "status": "Signed",
+                "author": "Vanier, Michael",
+                "timeEntry": {
+                    "program": "RPM",
+                    "timeSpent": "01 mins 45 secs"
+                },
+                "text": "Caregiver returned call to clarify an issue with treatment plan, informed care giver of the same information that was provided to the patient, no frther questions were asked.",
+                "tags": "",
+                "isoDateCreated": "2021-04-10T12:40:10-04:00",
+                "isoLastUpdated": "2021-04-10T12:40:10-04:00"
+            },
+            {
+                "id": "4",
+                "title": "RPM Updates",
+                "status": "Signed",
+                "author": "Vanier, Michael",
+                "timeEntry": {
+                    "program": "RPM",
+                    "timeSpent": "04 mins 22 secs"
+                },
+                "text": "Reviewed patient progress compared to last week, will inform dietitian to take this into consideration for their upcoming appointment.",
+                "tags": "",
+                "isoDateCreated": "2021-04-10T20:55:10-04:00",
+                "isoLastUpdated": "2021-04-10T20:55:10-04:00"
+            }
+          ]
+    },
+    {
+        "id": "4",
+        "title": "Review of patient Test Results",
+        "status": "Draft",
+        "author": "Vanier, Michael",
+        "timeEntry": {
+            "program": "PCM",
+            "timeSpent": "09 mins 11 secs"
+        },
+        "text": "Received patient's test results from the lab. All values tested are within ranges expected. No changes to treatment plan will be indicated. Contacted patient by phone, the patient was informed of their lab results and their interpretation. No further action is necessary.",
+        "tags": [
+            {
+                "id": "1",
+                "text": "Education (Medication Adherence)"
+            },
+            {
+                "id": "4",
+                "text": "Patient Care (Condition/Assessment)"
+            }
+        ],
+        "isoDateCreated": "2021-04-04T10:54:10-04:00",
+        "isoLastUpdated": "2021-04-04T07:24:10-04:00"
+    },
+    {
+        "id": "5",
+        "title": "Monthly Patient Contact",
+        "status": "Signed",
+        "author": "Vanier, Michael",
+        "timeEntry": {
+            "program": "RPM",
+            "timeSpent": "19 mins 42 secs"
+        },
+        "text": "Contacted the patient by telephone, communicated with them successfuly on second attempt. Reviewed the patient's observation trends, informed them that there has been a consistent increase in blood pressure, and indicated that if persistent, medications will need to be updated. Daily adherence has been maintained. No other issues or further changes to treatment plan.",
+        "tags": [
+            {
+                "id": "1",
+                "text": "Education (Medication Adherence)"
+            }
+        ],
+        "isoDateCreated": "2021-04-01T12:34:10-04:00",
+        "isoLastUpdated": "2021-04-01T12:34:10-04:00"
+    },
+    {
+        "id": "6",
+        "title": "Patient Reported Fall",
+        "status": "Draft",
+        "author": "Vanier, Michael",
+        "timeEntry": {
+            "program": "CCM",
+            "timeSpent": "07 mins 14 secs"
+        },
+        "text": "Received a call from the patient's daughter informing us that the patient had fallen from a chair the night before. The patient received support from their daugher immediately and sustained no apparent injuries. The patient and daughter decided not to go to emergency care, since there were no apparent injuries or discomfort. Confirmed with daughter that the patient should remain under observation and to go to emergency care if they experience any pain, dizziness, if they present wounds or any other relevant symptom.",
+        "tags": [
+            {
+                "id": "1",
+                "text": "Education (Medication Adherence)"
+            },
+            {
+                "id": "4",
+                "text": "Patient Care (Condition/Assessment)"
+            }
+        ],
+        "isoDateCreated": "2021-03-27T11:30:10-04:00",
+        "isoLastUpdated": "2021-03-27T11:30:10-04:00"
+    }
+]

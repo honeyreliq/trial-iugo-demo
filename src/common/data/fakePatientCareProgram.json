@@ -1,0 +1,24 @@
+{
+    "status": "Active",
+    "provider": "Leela Bhardvaj",
+    "providerPhone": "+12546230000",
+    "providerEmail": "leela.bhardvaj@example.com",
+    "providerType": "physician",
+    "providerStatus": "active",
+    "providerNpi": "56454200",
+    "providerAddress": "48 Crescent Rd, Suite 122",
+    "providerState": "FL",
+    "providerZipPostalCode": "16002",
+    "carePrograms": [
+        {
+            "programName": "remotePatientMonitoring",
+            "provider": "Dr. Michael Vanier",
+            "type": "Active"
+        },
+        {
+            "programName": "chronicCareManagement",
+            "provider": "Leela Bhardvaj",
+            "type": "Active"
+        }
+    ]
+}

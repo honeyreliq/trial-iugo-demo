@@ -1,0 +1,1240 @@
+[
+    {        
+        "uid": "1",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": " ",
+            "preferredName": " ",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "phone": "+12812520000",
+            "language": "English",
+            "email": "yejoon.kwan@example.com"
+        },
+        "observationType": "bloodPressure",
+        "reading": {
+            "type": "Critical",
+            "result": "136/80 P: 85",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "1",
+            "adherence": "4/5 (80%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 100,
+            "summary": "2/3"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "Leela Bhardvaj",
+            "phone": "+17558366123"
+        },
+        "billingProvider": "Leela Bhardvaj",
+        "note": "true",
+        "complex": "true"
+    },
+    {        
+        "uid": "2",
+        "patient": {
+            "givenName": "Minh",
+            "familyName": "Hong",
+            "middleName": "Thi",
+            "preferredName": " ",
+            "age": "30",
+            "gender": "F",
+            "birthDate": "10/05/1991",
+            "phone": "+12816340000",
+            "language": "English",
+            "email": "minh.hong@example.com"
+        },
+        "observationType": "bloodGlucoseNonFasting",
+        "reading": {
+            "type": "At-Risk",
+            "result": "198 mg/dL",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "1",
+            "adherence": "3/5 (60%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 530,
+            "summary": "1/3"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "Henry Chu",
+            "phone": "+12815550000"
+        },
+        "billingProvider": "Henry Chu",
+        "note": "true"
+    },
+    {        
+        "uid": "3",
+        "patient": {
+            "givenName": "Gabriela",
+            "familyName": "Moreno",
+            "middleName": "Maria",
+            "preferredName": "",
+            "age": "74",
+            "gender": "F",
+            "birthDate": "02/04/1947",
+            "phone": "+12815560000",
+            "language": "English",
+            "email": "gabriela.moreno@example.com"
+        },
+        "observationType": "temperature",
+        "reading": {
+            "type": "Target",
+            "result": "98.7 °F",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "0",
+            "adherence": "5/5 (100%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 250,
+            "summary": "3/4"
+        },
+        "carePlanStatus": "notInitiated",
+        "primaryCareProvider": {
+            "name": "Henry Chu",
+            "phone": "+12815550000"
+        },
+        "billingProvider": "Henry Chu"
+    },
+    {        
+        "uid": "4",
+        "patient": {
+            "givenName": "Manuel",
+            "familyName": "Alonso",
+            "middleName": "Jorge",
+            "preferredName": "Jorge",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "01/31/1945",
+            "phone": "+12812520000",
+            "language": "Spanish",
+            "email": "manuel.alonso@example.com",
+        "note": "true"
+        },
+        "observationType": "bloodPressure",
+        "reading": {
+            "type": "Target",
+            "result": "131/87 P:85",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "0",
+            "adherence": "5/5 (100%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 320,
+            "summary": "2/2"
+        },
+        "carePlanStatus": "notInitiated",
+        "primaryCareProvider": {
+            "name": "No Provider Assigned",
+            "phone": ""
+        },
+        "billingProvider": "William Koryusai",
+        "note": "true",
+        "complex": "true"
+    },
+    {        
+        "uid": "5",
+        "patient": {
+            "givenName": "Monique",
+            "familyName": "Caron",
+            "middleName": "Alicia",
+            "preferredName": "Alicia",
+            "age": "68",
+            "gender": "F",
+            "birthDate": "04/28/1953",
+            "phone": "+13458887728",
+            "language": "English",
+            "email": "mcaron@gmail.com"
+        },
+        "observationType": "bloodGlucoseFasting",
+        "reading": {
+            "type": "Target",
+            "result": "98 mg/dL",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "1",
+            "adherence": "4/5 (80%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 220,
+            "summary": "2/3"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "Michael Vanier",
+            "phone": "+12812940000"
+        },
+        "billingProvider": "Leela Bhardvaj",
+        "complex": "true"
+    },
+    {        
+        "uid": "6",
+        "patient": {
+            "givenName": "Catalina",
+            "familyName": "Garcia Rodriguez",
+            "middleName": "Camila",
+            "preferredName": "Catalina",
+            "age": "84",
+            "gender": "F",
+            "birthDate": "11/14/1937",
+            "phone": "+12815650000",
+            "language": "Spanish",
+            "email": "catalina.garciarodriguez@example.com"
+        },
+        "observationType": "bloodPressure",
+        "reading": {
+            "type": "At-Risk",
+            "result": "191/84 P:89",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "3",
+            "adherence": "2/5 (40%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 720,
+            "summary": "1/4"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "Michael Vanier",
+            "phone": "+17558369986"
+        },
+        "billingProvider": "Michael Vanier",
+        "note": "true",
+        "complex": "true"
+    },
+    {        
+        "uid": "7",
+        "patient": {
+            "givenName": "James",
+            "familyName": "Tran",
+            "middleName": "Tai",
+            "preferredName": "",
+            "age": "88",
+            "gender": "M",
+            "birthDate": "04/14/1933",
+            "phone": "+12816340000",
+            "language": "English",
+            "email": "james.tran@example.com"
+        },
+        "observationType": "bloodGlucose",
+        "reading": {
+            "type": "At-Risk",
+            "result": "158 mg/dL",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "0",
+            "adherence": "5/5 (100%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 990,
+            "summary": "2/2"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "Ghita Orozco Montenegro",
+            "phone": "+12815550000"
+        },
+        "billingProvider": "Ghita Orozco Montenegro",
+        "note": "true"
+    },
+    {        
+        "uid": "8",
+        "patient": {
+            "givenName": "Richard",
+            "familyName": "Hart",
+            "middleName": "James",
+            "preferredName": "",
+            "age": "77",
+            "gender": "M",
+            "birthDate": "01/17/1944",
+            "phone": "+12815550000",
+            "language": "English",
+            "email": "richard.hart@example.com"
+        },
+        "observationType": "bloodPressure",
+        "reading": {
+            "type": "Target",
+            "result": "121/74 P:65",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "1",
+            "adherence": "1/5 (20%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 670,
+            "summary": "3/3"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "No Provider Assigned",
+            "phone": ""
+        },
+        "billingProvider": "Michael Vanier",
+        "note": "true",
+        "complex": "true"
+    },
+    {        
+        "uid": "9",
+        "patient": {
+            "givenName": "Josiah",
+            "familyName": "Corporal",
+            "middleName": "Brett",
+            "preferredName": "",
+            "age": "86",
+            "gender": "M",
+            "birthDate": "12/16/1935",
+            "phone": "+12812350000",
+            "language": "Sanskrit",
+            "email": "josiah.corporal@example.com"
+        },
+        "observationType": "bloodGlucose",
+        "reading": {
+            "type": "Target",
+            "result": "110 mg/dL",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "1",
+            "adherence": "1/5 (20%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 420,
+            "summary": "2/3"
+        },
+        "carePlanStatus": "notInitiated",
+        "primaryCareProvider": {
+            "name": "Fadiyah Badriyah-Harb",
+            "phone": "+12814850000"
+        },
+        "billingProvider": "Fadiyah Badriyah-Harb"
+    },
+    {        
+        "uid": "10",
+        "patient": {
+            "givenName": "Maria Alejandra",
+            "familyName": "Ortega Velasquez",
+            "middleName": " ",
+            "preferredName": "Valentina",
+            "age": "80",
+            "gender": "U",
+            "birthDate": "03/09/1941",
+            "phone": "+12815650000",
+            "language": "Spanish",
+            "email": "mariaalejandra.ortegavelasquez@example.com"
+        },
+        "observationType": "bloodPressure",
+        "reading": {
+            "type": "Critical",
+            "result": "181/92 P:110",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "0",
+            "adherence": "5/5 (100%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 950,
+            "summary": "3/3"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "Roxanne Olszewska",
+            "phone": "+12814850000"
+        },
+        "billingProvider": "Roxanne Olszewska",
+        "note": "true"
+    },
+    {        
+        "uid": "11",
+        "patient": {
+            "givenName": "Tiva",
+            "familyName": "Nittawosew",
+            "middleName": "",
+            "preferredName": "",
+            "age": "48",
+            "gender": "F",
+            "birthDate": "07/07/1973",
+            "phone": "+12815650000",
+            "language": "English",
+            "email": "tiva.nittawosew@example.com"
+        },
+        "observationType": "bloodGlucoseFasting",
+        "reading": {
+            "type": "At-Risk",
+            "result": "171 mg/dL",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "1",
+            "adherence": "3/5 (60%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 630,
+            "summary": "2/4"
+        },
+        "carePlanStatus": "notInitiated",
+        "primaryCareProvider": {
+            "name": "Roxanne Olszewska",
+            "phone": "+12814850000"
+        },
+        "billingProvider": "Roxanne Olszewska"
+    },
+    {        
+        "uid": "12",
+        "patient": {
+            "givenName": "Hattie",
+            "familyName": "Pendleton",
+            "middleName": "Gloria",
+            "preferredName": "",
+            "age": "85",
+            "gender": "F",
+            "birthDate": "12/22/1936",
+            "phone": "+12812520000",
+            "language": "English",
+            "email": "hattie.pendleton@example.com"
+        },
+        "observationType": "bloodGlucose",
+        "reading": {
+            "type": "Target",
+            "result": "131 mg/dL",
+            "dateTime": "04/05/2021 19:04",
+            "missed": "1",
+            "adherence": "2/5 (40%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 550,
+            "summary": "2/2"
+        },
+        "carePlanStatus": "notInitiated",
+        "primaryCareProvider": {
+            "name": "Maria Koziol",
+            "phone": "+12811830000"
+        },
+        "billingProvider": "Michael Vanier",
+        "complex": "true"
+    },
+    {        
+        "uid": "13",
+        "patient": {
+            "givenName": "Yejoon",
+            "familyName": "Kwan",
+            "middleName": " ",
+            "preferredName": " ",
+            "age": "76",
+            "gender": "M",
+            "birthDate": "08/28/1945",
+            "phone": "+12812520000",
+            "language": "English",
+            "email": "yejoon.kwan@example.com"
+        },
+        "observationType": "bloodPressure",
+        "reading": {
+            "type": "Critical",
+            "result": "186/100 P: 85",
+            "dateTime": "04/06/2021 19:04",
+            "missed": "1",
+            "adherence": "5/6 (83%)"
+        },
+        "time": {
+            "target": 1200,
+            "spent": 100,
+            "summary": "2/3"
+        },
+        "carePlanStatus": "initiated",
+        "primaryCareProvider": {
+            "name": "Leela Bhardvaj",
+            "phone": "+17558366123"
+        },
+        "billingProvider": "Leela Bhardvaj",
+        "note": "true",
+        "complex": "true"
+    },
+    {        
+    "uid": "14",
+    "patient": {
+        "givenName": "Minh",
+        "familyName": "Hong",
+        "middleName": "Thi",
+        "preferredName": " ",
+        "age": "30",
+        "gender": "F",
+        "birthDate": "10/05/1991",
+        "phone": "+12816340000",
+        "language": "English",
+        "email": "minh.hong@example.com"
+    },
+    "observationType": "bloodGlucoseNonFasting",
+    "reading": {
+        "type": "At-Risk",
+        "result": "188 mg/dL",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "1",
+        "adherence": "4/6 (66%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 530,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Henry Chu",
+        "phone": "+12815550000"
+    },
+    "billingProvider": "Henry Chu",
+    "note": "true"
+},
+{        
+    "uid": "15",
+    "patient": {
+        "givenName": "Gabriela",
+        "familyName": "Moreno",
+        "middleName": "Maria",
+        "preferredName": "",
+        "age": "74",
+        "gender": "F",
+        "birthDate": "02/04/1947",
+        "phone": "+12815560000",
+        "language": "English",
+        "email": "gabriela.moreno@example.com"
+    },
+    "observationType": "temperature",
+    "reading": {
+        "type": "Target",
+        "result": "98.7 °F",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "0",
+        "adherence": "6/6 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 250,
+        "summary": "3/3"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "Henry Chu",
+        "phone": "+12815550000"
+    },
+    "billingProvider": "Henry Chu"
+},
+{        
+    "uid": "16",
+    "patient": {
+        "givenName": "Manuel",
+        "familyName": "Alonso",
+        "middleName": "Jorge",
+        "preferredName": "Jorge",
+        "age": "76",
+        "gender": "M",
+        "birthDate": "01/31/1945",
+        "phone": "+12812520000",
+        "language": "Spanish",
+        "email": "manuel.alonso@example.com",
+    "note": "true"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "Target",
+        "result": "136/85 P:85",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "0",
+        "adherence": "6/6 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 320,
+        "summary": "1/2"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "No Provider Assigned",
+        "phone": ""
+    },
+    "billingProvider": "William Koryusai",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "17",
+    "patient": {
+        "givenName": "Monique",
+        "familyName": "Caron",
+        "middleName": "Alicia",
+        "preferredName": "Alicia",
+        "age": "68",
+        "gender": "F",
+        "birthDate": "04/28/1953",
+        "phone": "+13458887728",
+        "language": "English",
+        "email": "mcaron@gmail.com"
+    },
+    "observationType": "bloodGlucoseFasting",
+    "reading": {
+        "type": "Target",
+        "result": "88 mg/dL",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "1",
+        "adherence": "5/6 (83%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 220,
+        "summary": "2/2"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+12812940000"
+    },
+    "billingProvider": "Leela Bhardvaj"
+},
+{        
+    "uid": "18",
+    "patient": {
+        "givenName": "Catalina",
+        "familyName": "Garcia Rodriguez",
+        "middleName": "Camila",
+        "preferredName": "Catalina",
+        "age": "84",
+        "gender": "F",
+        "birthDate": "11/14/1937",
+        "phone": "+12815650000",
+        "language": "Spanish",
+        "email": "catalina.garciarodriguez@example.com"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "At-Risk",
+        "result": "186/86 P:89",
+        "dateTime": "04/06/2021 09:04",
+        "missed": "3",
+        "adherence": "3/6 (50%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 720,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+17558369986"
+    },
+    "billingProvider": "Michael Vanier",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "19",
+    "patient": {
+        "givenName": "James",
+        "familyName": "Tran",
+        "middleName": "Tai",
+        "preferredName": "",
+        "age": "88",
+        "gender": "M",
+        "birthDate": "04/14/1933",
+        "phone": "+12816340000",
+        "language": "English",
+        "email": "james.tran@example.com"
+    },
+    "observationType": "bloodGlucose",
+    "reading": {
+        "type": "At-Risk",
+        "result": "166 mg/dL",
+        "dateTime": "04/06/2021 10:04",
+        "missed": "0",
+        "adherence": "6/6 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 990,
+        "summary": "1/1"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Ghita Orozco Montenegro",
+        "phone": "+12815550000"
+    },
+    "billingProvider": "Ghita Orozco Montenegro",
+    "note": "true"
+},
+{        
+    "uid": "20",
+    "patient": {
+        "givenName": "Richard",
+        "familyName": "Hart",
+        "middleName": "James",
+        "preferredName": "",
+        "age": "77",
+        "gender": "M",
+        "birthDate": "01/17/1944",
+        "phone": "+12815550000",
+        "language": "English",
+        "email": "richard.hart@example.com"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "Target",
+        "result": "121/70 P:65",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "1",
+        "adherence": "2/6 (33%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 670,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "No Provider Assigned",
+        "phone": ""
+    },
+    "billingProvider": "Michael Vanier",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "21",
+    "patient": {
+        "givenName": "Josiah",
+        "familyName": "Corporal",
+        "middleName": "Brett",
+        "preferredName": "",
+        "age": "86",
+        "gender": "M",
+        "birthDate": "12/16/1935",
+        "phone": "+12812350000",
+        "language": "Sanskrit",
+        "email": "josiah.corporal@example.com"
+    },
+    "observationType": "bloodGlucose",
+    "reading": {
+        "type": "Target",
+        "result": "121 mg/dL",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "1",
+        "adherence": "5/6 (83%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 420,
+        "summary": "3/3"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "Fadiyah Badriyah-Harb",
+        "phone": "+12814850000"
+    },
+    "billingProvider": "Fadiyah Badriyah-Harb"
+},
+{        
+    "uid": "22",
+    "patient": {
+        "givenName": "Maria Alejandra",
+        "familyName": "Ortega Velasquez",
+        "middleName": " ",
+        "preferredName": "Valentina",
+        "age": "80",
+        "gender": "U",
+        "birthDate": "03/09/1941",
+        "phone": "+12815650000",
+        "language": "Spanish",
+        "email": "mariaalejandra.ortegavelasquez@example.com"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "At-Risk",
+        "result": "165/86 P:90",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "0",
+        "adherence": "6/6 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 950,
+        "summary": "2/4"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Roxanne Olszewska",
+        "phone": "+12814850000"
+    },
+    "billingProvider": "Roxanne Olszewska",
+    "note": "true"
+},
+{        
+    "uid": "23",
+    "patient": {
+        "givenName": "Tiva",
+        "familyName": "Nittawosew",
+        "middleName": "",
+        "preferredName": "",
+        "age": "48",
+        "gender": "F",
+        "birthDate": "07/07/1973",
+        "phone": "+12815650000",
+        "language": "English",
+        "email": "tiva.nittawosew@example.com"
+    },
+    "observationType": "bloodGlucoseFasting",
+    "reading": {
+        "type": "At-Risk",
+        "result": "164 mg/dL",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "1",
+        "adherence": "4/6 (66%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 630,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "Roxanne Olszewska",
+        "phone": "+12814850000"
+    },
+    "billingProvider": "Roxanne Olszewska"
+},
+{        
+    "uid": "24",
+    "patient": {
+        "givenName": "Hattie",
+        "familyName": "Pendleton",
+        "middleName": "Gloria",
+        "preferredName": "",
+        "age": "85",
+        "gender": "F",
+        "birthDate": "12/22/1936",
+        "phone": "+12812520000",
+        "language": "English",
+        "email": "hattie.pendleton@example.com"
+    },
+    "observationType": "bloodGlucose",
+    "reading": {
+        "type": "Target",
+        "result": "128 mg/dL",
+        "dateTime": "04/06/2021 19:04",
+        "missed": "1",
+        "adherence": "3/6 (50%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 550,
+        "summary": "2/2"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "Maria Koziol",
+        "phone": "+12811830000"
+    },
+    "billingProvider": "Michael Vanier"
+},
+{        
+    "uid": "25",
+    "patient": {
+        "givenName": "Manuel",
+        "familyName": "Alonso",
+        "middleName": "Jorge",
+        "preferredName": "Jorge",
+        "age": "76",
+        "gender": "M",
+        "birthDate": "01/31/1945",
+        "phone": "+12812520000",
+        "language": "Spanish",
+        "email": "manuel.alonso@example.com",
+    "note": "true"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "Target",
+        "result": "120/78 P:85",
+        "dateTime": "04/07/2021 19:04",
+        "missed": "0",
+        "adherence": "7/7 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 320,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "No Provider Assigned",
+        "phone": ""
+    },
+    "billingProvider": "William Koryusai",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "26",
+    "patient": {
+        "givenName": "Monique",
+        "familyName": "Caron",
+        "middleName": "Alicia",
+        "preferredName": "Alicia",
+        "age": "68",
+        "gender": "F",
+        "birthDate": "04/28/1953",
+        "phone": "+13458887728",
+        "language": "English",
+        "email": "mcaron@gmail.com"
+    },
+    "observationType": "bloodGlucoseFasting",
+    "reading": {
+        "type": "Target",
+        "result": "109 mg/dL",
+        "dateTime": "04/07/2021 19:04",
+        "missed": "1",
+        "adherence": "6/7 (85%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 220,
+        "summary": "2/4"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+12812940000"
+    },
+    "billingProvider": "Leela Bhardvaj"
+},
+{        
+    "uid": "27",
+    "patient": {
+        "givenName": "Catalina",
+        "familyName": "Garcia Rodriguez",
+        "middleName": "Camila",
+        "preferredName": "Catalina",
+        "age": "84",
+        "gender": "F",
+        "birthDate": "11/14/1937",
+        "phone": "+12815650000",
+        "language": "Spanish",
+        "email": "catalina.garciarodriguez@example.com"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "At-Risk",
+        "result": "182/90 P:89",
+        "dateTime": "04/07/2021 19:04",
+        "missed": "3",
+        "adherence": "4/7 (57%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 720,
+        "summary": "1/4"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+17558369986"
+    },
+    "billingProvider": "Michael Vanier",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "28",
+    "patient": {
+        "givenName": "Manuel",
+        "familyName": "Alonso",
+        "middleName": "Jorge",
+        "preferredName": "Jorge",
+        "age": "76",
+        "gender": "M",
+        "birthDate": "01/31/1945",
+        "phone": "+12812520000",
+        "language": "Spanish",
+        "email": "manuel.alonso@example.com",
+    "note": "true"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "Target",
+        "result": "119/78 P:85",
+        "dateTime": "04/09/2021 11:04",
+        "missed": "0",
+        "adherence": "9/9 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 320,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "No Provider Assigned",
+        "phone": ""
+    },
+    "billingProvider": "William Koryusai",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "29",
+    "patient": {
+        "givenName": "Monique",
+        "familyName": "Caron",
+        "middleName": "Alicia",
+        "preferredName": "Alicia",
+        "age": "68",
+        "gender": "F",
+        "birthDate": "04/28/1953",
+        "phone": "+13458887728",
+        "language": "English",
+        "email": "mcaron@gmail.com"
+    },
+    "observationType": "bloodGlucoseFasting",
+    "reading": {
+        "type": "Target",
+        "result": "100 mg/dL",
+        "dateTime": "04/09/2021 06:04",
+        "missed": "1",
+        "adherence": "8/9 (92%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 220,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+12812940000"
+    },
+    "billingProvider": "Leela Bhardvaj",
+    "complex": "true"
+},
+{        
+    "uid": "30",
+    "patient": {
+        "givenName": "Catalina",
+        "familyName": "Garcia Rodriguez",
+        "middleName": "Camila",
+        "preferredName": "Catalina",
+        "age": "84",
+        "gender": "F",
+        "birthDate": "11/14/1937",
+        "phone": "+12815650000",
+        "language": "Spanish",
+        "email": "catalina.garciarodriguez@example.com"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "At-Risk",
+        "result": "177/85 P:89",
+        "dateTime": "04/09/2021 19:04",
+        "missed": "3",
+        "adherence": "6/9 (66%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 720,
+        "summary": "3/4"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+17558369986"
+    },
+    "billingProvider": "Michael Vanier",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "31",
+    "patient": {
+        "givenName": "Manuel",
+        "familyName": "Alonso",
+        "middleName": "Jorge",
+        "preferredName": "Jorge",
+        "age": "76",
+        "gender": "M",
+        "birthDate": "01/31/1945",
+        "phone": "+12812520000",
+        "language": "Spanish",
+        "email": "manuel.alonso@example.com",
+    "note": "true"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "Target",
+        "result": "120/80 P:85",
+        "dateTime": "04/10/2021 19:04",
+        "missed": "0",
+        "adherence": "10/10 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 320,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "No Provider Assigned",
+        "phone": ""
+    },
+    "billingProvider": "William Koryusai",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "32",
+    "patient": {
+        "givenName": "Monique",
+        "familyName": "Caron",
+        "middleName": "Alicia",
+        "preferredName": "Alicia",
+        "age": "68",
+        "gender": "F",
+        "birthDate": "04/28/1953",
+        "phone": "+13458887728",
+        "language": "English",
+        "email": "mcaron@gmail.com"
+    },
+    "observationType": "bloodGlucoseFasting",
+    "reading": {
+        "type": "Target",
+        "result": "119 mg/dL",
+        "dateTime": "04/10/2021 19:04",
+        "missed": "1",
+        "adherence": "9/10 (90%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 220,
+        "summary": "1/5"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+12812940000"
+    },
+    "billingProvider": "Leela Bhardvaj"
+},
+{        
+    "uid": "33",
+    "patient": {
+        "givenName": "Catalina",
+        "familyName": "Garcia Rodriguez",
+        "middleName": "Camila",
+        "preferredName": "Catalina",
+        "age": "84",
+        "gender": "F",
+        "birthDate": "11/14/1937",
+        "phone": "+12815650000",
+        "language": "Spanish",
+        "email": "catalina.garciarodriguez@example.com"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "At-Risk",
+        "result": "156/80 P:89",
+        "dateTime": "04/10/2021 19:04",
+        "missed": "3",
+        "adherence": "7/10 (70%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 720,
+        "summary": "2/3"
+    },
+    "carePlanStatus": "initiated",
+    "primaryCareProvider": {
+        "name": "Michael Vanier",
+        "phone": "+17558369986"
+    },
+    "billingProvider": "Michael Vanier",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "34",
+    "patient": {
+        "givenName": "Manuel",
+        "familyName": "Alonso",
+        "middleName": "Jorge",
+        "preferredName": "Jorge",
+        "age": "76",
+        "gender": "M",
+        "birthDate": "01/31/1945",
+        "phone": "+12812520000",
+        "language": "Spanish",
+        "email": "manuel.alonso@example.com",
+    "note": "true"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "At-Risk",
+        "result": "156/88 P:90",
+        "dateTime": "04/11/2021 11:04",
+        "missed": "0",
+        "adherence": "11/11 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 320,
+        "summary": "2/4"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "No Provider Assigned",
+        "phone": ""
+    },
+    "billingProvider": "William Koryusai",
+    "note": "true",
+    "complex": "true"
+},
+{        
+    "uid": "35",
+    "patient": {
+        "givenName": "Manuel",
+        "familyName": "Alonso",
+        "middleName": "Jorge",
+        "preferredName": "Jorge",
+        "age": "76",
+        "gender": "M",
+        "birthDate": "01/31/1945",
+        "phone": "+12812520000",
+        "language": "Spanish",
+        "email": "manuel.alonso@example.com",
+    "note": "true"
+    },
+    "observationType": "bloodPressure",
+    "reading": {
+        "type": "At-Risk",
+        "result": "146/88 P:70",
+        "dateTime": "04/12/2021 11:04",
+        "missed": "0",
+        "adherence": "12/12 (100%)"
+    },
+    "time": {
+        "target": 1200,
+        "spent": 320,
+        "summary": "2/2"
+    },
+    "carePlanStatus": "notInitiated",
+    "primaryCareProvider": {
+        "name": "No Provider Assigned",
+        "phone": ""
+    },
+    "billingProvider": "William Koryusai",
+    "note": "true",
+    "complex": "true"
+}
+]

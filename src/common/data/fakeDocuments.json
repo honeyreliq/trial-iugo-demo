@@ -1,0 +1,143 @@
+[
+    {
+        "id": "1",
+        "name": "2021-04-GoodHealth Clinic-adherence-report-monthly",
+        "organization": "GoodHealth Clinic",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-01T14:14:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-Organization-adherence-report-monthly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "2",
+        "name": "2021-04-Abundant Health Services-adherence-report-weekly",
+        "organization": "Abundant Health Services",
+        "category": "organizationWeeklyReport",
+        "isoDateUploaded": "2021-04-01T12:10:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-PatientReports-Organization-10MB.zi",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "3",
+        "name": "2021-04-Capable Care Clinical Practice-adherence-report-weekly",
+        "organization": "Capable Care Clinical Practice",
+        "category": "organizationWeeklyReport",
+        "isoDateUploaded": "2021-04-14T10:24:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-02-14-Organization-adherence-report-weekly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "4",
+        "name": "2021-04-Choosing Wellness Services-patients-report-monthly",
+        "organization": "Choosing Wellness Services",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-01T14:14:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-Organization-adherence-report-monthly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/zip",
+        "fav": false
+    },
+    {
+        "id": "5",
+        "name": "2021-04-Dynamic Health Services-adherence-report-weekly",
+        "organization": "Dynamic Health Services",
+        "category": "organizationWeeklyReport",
+        "isoDateUploaded": "2021-04-01T12:10:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-PatientReports-Organization-10MB.zi",
+        "fileType": "application/pdf",
+        "fav": false
+    },
+    {
+        "id": "6",
+        "name": "2021-04-Harmony Home Health Agency-patients-report-weekly",
+        "organization": "Harmony Home Health Agency",
+        "category": "organizationWeeklyReport",
+        "isoDateUploaded": "2021-04-14T10:24:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-02-14-Organization-adherence-report-weekly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/zip",
+        "fav": false
+    },
+    {
+        "id": "7",
+        "name": "2021-04-HealthQuest Clinic-adherence-report-monthly",
+        "organization": "HealthQuest Clinic",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-01T14:14:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-Organization-adherence-report-monthly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "8",
+        "name": "2021-04-HealVenture Health Services-adherence-report-monthly",
+        "organization": "HealVenture Health Services",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-01T12:10:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-PatientReports-Organization-10MB.zi",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "9",
+        "name": "2021-04-Helpful Hearts Home Health Agency-patients-report-monthly",
+        "organization": "Helpful Hearts Home Health Agency",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-14T10:24:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-02-14-Organization-adherence-report-weekly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/zip"
+    },
+    {
+        "id": "10",
+        "name": "2021-04-Marvelous Medical Services-adherence-report-weekly",
+        "organization": "Marvelous Medical Services",
+        "category": "organizationWeeklyReport",
+        "isoDateUploaded": "2021-04-01T14:14:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-Organization-adherence-report-monthly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf",
+        "fav": false
+    },
+    {
+        "id": "11",
+        "name": "2021-04-ProHealth Cardiology Clinic-adherence-report-monthly",
+        "organization": "ProHealth Cardiology Clinic",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-01T12:10:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-PatientReports-Organization-10MB.zi",
+        "fileType": "application/pdf",
+        "fav": false
+    },
+    {
+        "id": "12",
+        "name": "2021-04-Vivid Health Clinic-patients-report-monthly",
+        "organization": "Vivid Health Clinic",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-14T10:24:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-02-14-Organization-adherence-report-weekly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/zip",
+        "fav": false
+    },
+    {
+        "id": "13",
+        "name": "2021-04-Welcome Wellness-adherence-report-monthly",
+        "organization": "Welcome Wellness",
+        "category": "organizationMonthlyReport",
+        "isoDateUploaded": "2021-04-01T14:14:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-Organization-adherence-report-monthly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "14",
+        "name": "2021-04-Wellness Vision Clinical Practice-adherence-report-weekly",
+        "organization": "Wellness Vision Clinical Practice",
+        "category": "organizationWeeklyReport",
+        "isoDateUploaded": "2021-04-01T12:10:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-01-PatientReports-Organization-10MB.zi",
+        "fileType": "application/pdf"
+    },
+    {
+        "id": "15",
+        "name": "2021-04-WholesomeHealth Clinic-patients-report-weekly",
+        "organization": "WholesomeHealth Clinic",
+        "category": "organizationWeeklyReport",
+        "isoDateUploaded": "2021-04-14T10:24:10-04:00",
+        "absolutePath": "/documents/Reliq.Billing.Uploader.TestClientReports.Organization.2021-02-14-Organization-adherence-report-weekly.pdf#toolbar=0&navpanes=0&scrollbar=0",
+        "fileType": "application/pdf"
+    }
+]

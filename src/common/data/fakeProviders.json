@@ -1,0 +1,239 @@
+[
+    {
+        "uid": "1",
+        "name": "Dr. Parvati Khan",
+        "phone": "+12814240000",
+        "email": "parvati.khan@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "314159265",
+        "address": "11980 Glenmore Dr",
+        "state": "FL",
+        "zipPostalCode": "10200",
+        "organizations": [
+            "GoodHealth Clinic",
+            "ProHealth Cardiology Clinic",
+            "Marvelous Medical Services"
+        ]
+    },
+    {
+        "uid": "2",
+        "name": "Henry Chu",
+        "phone": "+16268560000",
+        "email": "henry.chu@example.com",
+        "type": "nursePractitioner",
+        "status": "active",
+        "npi": "3589793238",
+        "address": "42 Parkland Ave",
+        "state": "FL",
+        "zipPostalCode": "10250",
+        "organizations": [
+            "Marvelous Medical Services"
+        ],
+        "expandedInfo": "Expanded Info"
+    },
+    {
+        "uid": "3",
+        "name": "Dr. Paul Lin",
+        "phone": "+12397450000",
+        "email": "paul.lin@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "279502884",
+        "address": "9099 Main St. West",
+        "state": "FL",
+        "zipPostalCode": "10200",
+        "organizations": [
+            "Marvelous Medical Services"
+        ],
+        "expandedInfo": "Expanded Info"
+    },
+    {
+        "uid": "4",
+        "name": "Dr. Leela Bhardvaj",
+        "phone": "+12546230000",
+        "email": "leela.bhardvaj@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "56454200",
+        "address": "48 Crescent Rd, Suite 122",
+        "state": "FL",
+        "zipPostalCode": "16002",
+        "organizations": [
+            "GoodHealth Clinic",
+            "Marvelous Medical Services"
+        ]
+    },
+    {
+        "uid": "5",
+        "name": "Moira O'Connell",
+        "phone": "+16173420000",
+        "email": "moira.oconnell@example.com",
+        "type": "clinicalNurseSpecialist",
+        "status": "active",
+        "npi": "47878593849",
+        "address": "3500 Morningside Rd, Unit 1",
+        "state": "TX",
+        "zipPostalCode": "99890",
+        "organizations": [
+            "GoodHealth Clinic"
+        ]
+    },
+    {
+        "uid": "6",
+        "name": "Dr. Johnathan Hae-Won",
+        "phone": "+16263610000",
+        "email": "johnathan.haewon@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "57874857847",
+        "address": "3500 Morningside Rd, unit 12",
+        "state": "TX",
+        "zipPostalCode": "99890",
+        "organizations": [
+            "GoodHealth Clinic",
+            "ProHealth Cardiology Clinic",
+            "Marvelous Medical Services"
+        ]
+    },
+    {
+        "uid": "7",
+        "name": "Dr. William Koryusai",
+        "phone": "+16078840000",
+        "email": "william.koryusai@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "2773090944",
+        "address": "99 Gladiola Rd",
+        "state": "CA",
+        "zipPostalCode": "78400",
+        "organizations": [
+            "GoodHealth Clinic"
+        ]
+    },
+    {
+        "uid": "8",
+        "name": "Dr. Helen Rowett",
+        "phone": "+16173540000",
+        "email": "helen.rowett@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "7800077111",
+        "address": "2-700 Densmure Rd. S",
+        "state": "CO",
+        "zipPostalCode": "34354",
+        "organizations": [
+            "Marvelous Medical Services"
+        ]
+    },
+    {
+        "uid": "9",
+        "name": "Maria Koziol",
+        "phone": "+14156340000",
+        "email": "maria.koziol@example.com",
+        "type": "clinicalNurseSpecialist",
+        "status": "active",
+        "npi": "618984676",
+        "address": "7 Round St. Suite 401",
+        "state": "CO",
+        "zipPostalCode": "34354",
+        "organizations": [
+            "ProHealth Cardiology Clinic"
+        ]
+    },
+    {
+        "uid": "10",
+        "name": "Megumi Kawashima",
+        "phone": "+12546620000",
+        "email": "megumi.kawashima@example.com",
+        "type": "nursePractitioner",
+        "status": "active",
+        "npi": "2551907",
+        "address": "32 West Field Rd. Unit 330",
+        "state": "OR",
+        "zipPostalCode": "20340",
+        "organizations": [
+            "ProHealth Cardiology Clinic",
+            "Marvelous Medical Services"
+        ]
+    },
+    {
+        "uid": "11",
+        "name": "Dr. Michael Vanierh",
+        "phone": "+12392380000",
+        "email": "mvanier@doctor.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "2323445400",
+        "address": "46 Sunflower St. Suite 10",
+        "state": "FL",
+        "zipPostalCode": "87300",
+        "organizations": [
+            "GoodHealth Clinic"
+        ]
+    },
+    {
+        "uid": "12",
+        "name": "Dr. Fadiyah Badriyah-Harb",
+        "phone": "+16174380000",
+        "email": "fadiyah.badriyahharb@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "239007800",
+        "address": "45 Main Field St. Unit 4",
+        "state": "NJ",
+        "zipPostalCode": "67400",
+        "organizations": [
+            "GoodHealth Clinic",
+            "Marvelous Medical Services"
+        ]
+    },
+    {
+        "uid": "13",
+        "name": "Dr. Ghita Orozco Montenegro",
+        "phone": "+16077820000",
+        "email": "ghita.orozcomontenegro@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "32384626433",
+        "address": "42 Valley Rd West, Unit 2",
+        "state": "WA",
+        "zipPostalCode": "45101",
+        "organizations": [
+            "GoodHealth Clinic"
+        ],
+        "expandedInfo": "Expanded Info"
+    },
+    {
+        "uid": "14",
+        "name": "Dr. Roxanne Olszewska",
+        "phone": "+12060340000",
+        "email": "roxanne.olszewska@example.com",
+        "type": "physician",
+        "status": "active",
+        "npi": "434788595",
+        "address": "42 Main Street S",
+        "state": "WA",
+        "zipPostalCode": "45101",
+        "organizations": [
+            "Marvelous Medical Services"
+        ],
+        "expandedInfo": "Expanded Info"
+    },
+    {
+        "uid": "15",
+        "name": "Oliver Pelland",
+        "phone": "+14152370000",
+        "email": "oliver.pelland@example.com",
+        "type": "nursePractitioner",
+        "status": "inactive",
+        "npi": "56454390",
+        "address": "84100 Tennesse Rd., Suite 505",
+        "state": "MA",
+        "zipPostalCode": "12344",
+        "organizations": [
+            "ProHealth Cardiology Clinic"
+        ],
+        "expandedInfo": "Expanded Info"
+    }
+]
