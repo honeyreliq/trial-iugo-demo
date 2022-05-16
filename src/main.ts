@@ -22,8 +22,7 @@ import titleMixin from './mixins/titleMixin';
 import ResizeSensor from 'resize-sensor';
 // @ts-ignore
 import VueStickyDirective from '@renatodeleao/vue-sticky-directive';
-import IdleVue from 'idle-vue';
-//import store from './store'
+
 
 
 /* eslint-disable */
@@ -71,10 +70,3 @@ new Vue({
   i18n,
   render: (h) => h(App),
 }).$mount('#app');
-
-Vue.use(IdleVue, {
-  eventEmitter: eventsHub,
-  store,
-  idleTime: 3000, // 3 seconds
-  startAtIdle: false
-});
