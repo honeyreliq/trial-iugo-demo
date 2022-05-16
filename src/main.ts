@@ -23,7 +23,7 @@ import ResizeSensor from 'resize-sensor';
 // @ts-ignore
 import VueStickyDirective from '@renatodeleao/vue-sticky-directive';
 import IdleVue from 'idle-vue';
-import store from './store'
+//import store from './store'
 
 
 /* eslint-disable */
