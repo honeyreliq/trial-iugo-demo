@@ -1,9 +1,10 @@
 <template>
   <router-view />
-  <div id="app">
-		<p>Is it Idle? - {{ isIdle }}</p>
-  </div>
 </template>
+
+<!--<template>
+		<p>Is it Idle? - {{ isIdle }}</p>
+</template>-->
 
 <script lang="ts">
 import Vue from 'vue';
@@ -29,6 +30,13 @@ export default Vue.extend({
       document.title = 'iUGO Care: ' + to.meta.title || 'iUGO Care';
     },
   },
+
+  /*computed: {
+		isIdle() {
+			return this.$store.state.idleVue.isIdle;
+		}
+  },*/
+
   created() {
    const storedUserPrefs = JSON.parse(localStorage.getItem('userPrefs'));
    if (storedUserPrefs) {
@@ -40,11 +48,5 @@ export default Vue.extend({
   },
 });
 
-export default {
-	computed: {
-		isIdle() {
-			return this.$store.state.idleVue.isIdle;
-		}
-	}
-};
+
 </script>
