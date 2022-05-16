@@ -1,5 +1,8 @@
 <template>
   <router-view />
+  <div id="app">
+		<p>Is it Idle? - {{ isIdle }}</p>
+  </div>
 </template>
 
 <script lang="ts">
@@ -36,4 +39,12 @@ export default Vue.extend({
   //  this.unit = this.userPrefs.unit;
   },
 });
+
+export default {
+	computed: {
+		isIdle() {
+			return this.$store.state.idleVue.isIdle;
+		}
+	}
+};
 </script>
