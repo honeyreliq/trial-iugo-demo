@@ -2,7 +2,7 @@ new Vue({
     el: 'body', // use the body element so we have mousemove on the entire document
 
     data: { // config values
-    idleTime: 3600, // The internal timer that tracks idle time, is reset on event. Set this to your timeout value in seconds
+    idleTime: 120, // The internal timer that tracks idle time, is reset on event. Set this to your timeout value in seconds
     idleCountdown:null, // Populated at runtime by idleTime value. This value decrease every second until timeout is reached
     idleTimeout: false, // Timeout status toggle
     UITime: 120, // Total time before UI performs action. Set this to your desired countdown to your users
