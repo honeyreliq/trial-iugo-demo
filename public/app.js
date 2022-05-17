@@ -2,10 +2,10 @@ new Vue({
     el: 'body', // use the body element so we have mousemove on the entire document
 
     data: { // config values
-    idleTime: 120, // The internal timer that tracks idle time, is reset on event. Set this to your timeout value in seconds
+    idleTime: 30, // The internal timer that tracks idle time, is reset on event. Set this to your timeout value in seconds
     idleCountdown:null, // Populated at runtime by idleTime value. This value decrease every second until timeout is reached
     idleTimeout: false, // Timeout status toggle
-    UITime: 120, // Total time before UI performs action. Set this to your desired countdown to your users
+    UITime: 30, // Total time before UI performs action. Set this to your desired countdown to your users
     UICountdown: null, // Populated by uiTime on idleTimeout, UI countdown decreases every second until timeout is reached
     UITimeout: false // UI timeout status toggle
     },
@@ -21,7 +21,7 @@ new Vue({
     startIdleCountdown: function () {
     $('.UICountdown').hide();                               // hides the UI warning window
     this.idleCountdown = this.idleTime;                     // initialize the timer with idle timeout config value
-    this.setIdleTimer = setInterval(this.idleTimer, 1000);  // starts the timer. setTimer is used to clear/reset idleTimer
+    this.setIdleTimer = setInterval(this.idleTimer, 30);  // starts the timer. setTimer is used to clear/reset idleTimer
     },
 
     // This is the method that counts down the idle time. Every 1000 ms an additional
@@ -50,9 +50,9 @@ new Vue({
 
     // Starts the UI countdown, and displays the warning to user
     startUICountdown: function () {
-    $('.UICountdown').slideDown(2000);                    // display the UI warning window
+    $('.UICountdown').slideDown(30);                    // display the UI warning window
     this.UICountdown = this.UITime;                     // initialize the UI timer with UI timeout config value
-    this.setUITimer = setInterval(this.UITimer, 1000);  // start UI timer. setUITimer is used to reset UITimer
+    this.setUITimer = setInterval(this.UITimer, 30);  // start UI timer. setUITimer is used to reset UITimer
     },
 
     // the countdown timer decrements the UICountdown value until zero
