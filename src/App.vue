@@ -2,10 +2,6 @@
   <router-view />
 </template>
 
-<!--<template>
-		<p>Is it Idle? - {{ isIdle }}</p>
-</template>-->
-
 <script lang="ts">
 import Vue from 'vue';
 
@@ -31,11 +27,6 @@ export default Vue.extend({
     },
   },
 
-  /*computed: {
-		isIdle() {
-			return this.$store.state.idleVue.isIdle;
-		}
-  },*/
 
   created() {
    const storedUserPrefs = JSON.parse(localStorage.getItem('userPrefs'));
