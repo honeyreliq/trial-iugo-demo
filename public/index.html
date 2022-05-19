@@ -27,12 +27,12 @@
         $.jq_easy_session_timeout(
          {	    
            inactivityDialogDuration: 5, 
-            maxInactivitySeconds: 30,	     
-            inactivityLogoutUrl1:'https://main.d1hicq28pi8i2v.amplifyapp.com/',
+            maxInactivitySeconds: 10,	     
+            inactivityLogoutUrl1:'',
             inactivityLogoutUrl:function () 
             {
               //log user off
-              location.replace("https://main.d1hicq28pi8i2v.amplifyapp.com/") 
+              location.replace("main.d1hicq28pi8i2v.amplifyapp.com") 
     
             },
         });
