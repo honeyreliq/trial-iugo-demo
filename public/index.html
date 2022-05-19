@@ -8,6 +8,44 @@
     <title>iUGO Care</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css">
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script> 
+     
+  
+    <script src="jquery_easy_session_timeout.js"></script> 
+  
+
+    <script type="text/javascript">
+      $(document).ready(function($) 
+      {
+    
+        function start_timer () 
+        {}
+        
+        $.jq_easy_session_timeout(
+         {	    
+           inactivityDialogDuration: 5, 
+            maxInactivitySeconds: 10,	     
+            inactivityLogoutUrl1:'https://google.com',
+            inactivityLogoutUrl:function () 
+            {
+              //log user off
+              console.log('log out code goes here');
+    
+            },
+        });
+        
+    
+        $(document).on('click', '.btn_start_timer', function(event) 
+        {
+          event.preventDefault();
+          start_timer();
+        });
+    
+      });
+      </script>
   </head>
 
   <body>
